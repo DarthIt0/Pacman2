@@ -1,0 +1,1633 @@
+﻿Log file open, 12/11/19 15:53:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pacman2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.089536
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=DarthIt0 -epicuserid=09e10e81f244499b944931ec94eda32f -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.11-06.53.26:689][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.11-06.53.26:689][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.11-06.53.26:689][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.11-06.53.26:690][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.11-06.53.26:690][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.11-06.53.26:690][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.11-06.53.26:693][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.11-06.53.26:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.11-06.53.26:694][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.11-06.53.26:694][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.11-06.53.26:694][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.11-06.53.26:706][  0]LogHAL: Display: Platform has ~ 8 GB [8472039424 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.11-06.53.26:706][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.11-06.53.26:706][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:706][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.11-06.53.26:706][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.11-06.53.26:706][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:706][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.11-06.53.26:706][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:706][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.11-06.53.26:706][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.11-06.53.26:706][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.11-06.53.26:706][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.11-06.53.26:706][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.11-06.53.26:706][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.11-06.53.26:707][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-06.53.26:707][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.11-06.53.26:708][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.11-06.53.26:708][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.11-06.53.26:708][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.11-06.53.26:708][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.11-06.53.26:708][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.11-06.53.26:708][  0]LogInit: Computer: DESKTOP-FOR252Q
+[2019.12.11-06.53.26:708][  0]LogInit: User: john
+[2019.12.11-06.53.26:708][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.11-06.53.26:708][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.11-06.53.26:709][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.11-06.53.26:709][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.11-06.53.26:709][  0]LogMemory: Process Physical Memory: 100.41 MB used, 100.42 MB peak
+[2019.12.11-06.53.26:709][  0]LogMemory: Process Virtual Memory: 99.59 MB used, 99.59 MB peak
+[2019.12.11-06.53.26:709][  0]LogMemory: Physical Memory: 6353.27 MB used,  1726.29 MB free, 8079.57 MB total
+[2019.12.11-06.53.26:709][  0]LogMemory: Virtual Memory: 4651.55 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.12.11-06.53.26:711][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.11-06.53.26:791][  0]LogInit: Using OS detected language (en-US).
+[2019.12.11-06.53.26:791][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.11-06.53.26:793][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.11-06.53.27:140][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.11-06.53.27:205][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.11-06.53.27:206][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.11-06.53.30:378][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.11-06.53.30:378][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.11-06.53.30:479][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.12.11-06.53.30:479][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.11-06.53.30:482][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.11-06.53.30:482][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.11-06.53.30:482][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.11-06.53.30:487][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.11-06.53.30:488][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.11-06.53.30:488][  0]LogWindows: EnumDisplayDevices:
+[2019.12.11-06.53.30:488][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.12.11-06.53.30:488][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.11-06.53.30:488][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.11-06.53.30:489][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.11-06.53.30:489][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.12.11-06.53.30:490][  0]LogD3D11RHI:   Driver Version: 26.20.100.7463 (internal:26.20.100.7463, unified:26.20.100.7463)
+[2019.12.11-06.53.30:490][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2019.12.11-06.53.30:490][  0]LogRHI: Texture pool is 1503 MB (70% of 2147 MB)
+[2019.12.11-06.53.30:745][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.12.11-06.53.30:745][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.11-06.53.30:763][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.11-06.53.31:161][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.11-06.53.31:171][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.11-06.53.31:180][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.11-06.53.31:191][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.11-06.53.31:211][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.11-06.53.31:222][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.11-06.53.31:232][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.11-06.53.31:243][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.11-06.53.31:248][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.11-06.53.31:302][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.11-06.53.31:304][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.11-06.53.31:342][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.11-06.53.31:342][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.11-06.53.31:359][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.11-06.53.31:359][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.11-06.53.31:368][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.11-06.53.31:376][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.11-06.53.31:386][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.11-06.53.31:410][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.11-06.53.31:443][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.11-06.53.31:443][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.11-06.53.31:443][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.11-06.53.31:457][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.11-06.53.31:554][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Intermediate/Shaders/WorkingDirectory/12332/).
+[2019.12.11-06.53.31:554][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/john/AppData/Local/Temp/UnrealShaderWorkingDir/2AF1CA2A4B3214DCA699469A9250B15E/'.
+[2019.12.11-06.53.31:557][  0]LogXGEController: Cleaning working directory: C:/Users/john/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.11-06.53.31:558][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.12.11-06.53.34:702][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.11-06.53.34:952][  0]LogDerivedDataCache: Loaded boot cache 0.25s 73MB C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.11-06.53.34:952][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.11-06.53.34:952][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/john/Documents/Unreal Projects/Pacman2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.11-06.53.34:952][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.11-06.53.34:952][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/john/Documents/Unreal Projects/Pacman2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.11-06.53.34:952][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.11-06.53.34:972][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.11-06.53.34:973][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.11-06.53.34:973][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.11-06.53.34:975][  0]LogDerivedDataCache: Using Local data cache path C:/Users/john/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.11-06.53.34:975][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.11-06.53.34:975][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.11-06.53.35:001][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.11-06.53.35:008][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.11-06.53.35:011][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.11-06.53.35:177][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2019.12.11-06.53.35:587][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.11-06.53.35:902][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.11-06.53.35:902][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.11-06.53.35:902][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.11-06.53.35:902][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.11-06.53.35:903][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.11-06.53.35:946][  0]LogNetVersion: Pacman2 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 199010827)
+[2019.12.11-06.53.37:185][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.078637 seconds
+[2019.12.11-06.53.37:192][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.11-06.53.37:192][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.11-06.53.37:192][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.11-06.53.42:740][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.11-06.53.42:745][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.11-06.53.43:014][  0]SourceControl: Source control is disabled
+[2019.12.11-06.53.43:016][  0]SourceControl: Source control is disabled
+[2019.12.11-06.53.43:030][  0]SourceControl: Source control is disabled
+[2019.12.11-06.53.43:035][  0]SourceControl: Source control is disabled
+[2019.12.11-06.53.43:293][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.11-06.53.43:504][  0]LogOcInput: OculusInput pre-init called
+[2019.12.11-06.53.43:519][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.11-06.53.43:519][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.11-06.53.43:701][  0]LogEngine: Initializing Engine...
+[2019.12.11-06.53.43:703][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.11-06.53.43:710][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2019.12.11-06.53.44:121][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.11-06.53.44:151][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.11-06.53.44:310][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.53.44:368][  0]LogInit: FAudioDevice initialized.
+[2019.12.11-06.53.44:369][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.11-06.53.44:519][  0]LogDerivedDataCache: Saved boot cache 0.15s 73MB C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.11-06.53.44:532][  0]LogInit: Texture streaming: Enabled
+[2019.12.11-06.53.44:571][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.11-06.53.44:571][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={A69C8653-4205-D9A2-56C7-5486E16FCFD8}
+[2019.12.11-06.53.44:572][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.11-06.53.44:574][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.11-06.53.44:691][  0]LogInit: Transaction tracking system initialized
+[2019.12.11-06.53.44:783][  0]BlueprintLog: New page: Editor Load
+[2019.12.11-06.53.44:990][  0]LocalizationService: Localization service is disabled
+[2019.12.11-06.53.45:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/' took 0.01s
+[2019.12.11-06.53.45:587][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.11-06.53.45:587][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.11-06.53.46:212][  0]SourceControl: Source control is disabled
+[2019.12.11-06.53.46:214][  0]Cmd: MAP LOAD FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.11-06.53.46:216][  0]LightingResults: New page: Lighting Build
+[2019.12.11-06.53.46:222][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.53.46:223][  0]MapCheck: New page: Map Check
+[2019.12.11-06.53.46:223][  0]LightingResults: New page: Lighting Build
+[2019.12.11-06.53.46:245][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.12.11-06.53.46:481][  0]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-06.53.46:504][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-06.53.46:538][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.12.11-06.53.46:538][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-06.53.46:539][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.661ms to complete.
+[2019.12.11-06.53.46:539][  0]LogFileHelpers: Loading map 'NewMap' took 0.326
+[2019.12.11-06.53.46:771][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.53.46:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.53.46:787][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.53.46:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.53.46:815][  0]LogCollectionManager: Loaded 0 collections in 0.002501 seconds
+[2019.12.11-06.53.46:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Collections/' took 0.00s
+[2019.12.11-06.53.46:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/Developers/john/Collections/' took 0.00s
+[2019.12.11-06.53.46:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/Collections/' took 0.00s
+[2019.12.11-06.53.46:839][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.11-06.53.46:849][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2869 classes and 683 folders.
+[2019.12.11-06.53.46:867][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.11-06.53.47:367][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.11-06.53.47:378][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.12.11-06.53.47:454][  0]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.11-06.53.47:460][  0]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.11-06.53.47:489][  0]LogSlate: Took 0.009807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.11-06.53.47:716][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.11-06.53.48:268][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.11-06.53.48:268][  0]LogLoad: (Engine Initialization) Total time: 23.01 seconds
+[2019.12.11-06.53.48:268][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.11-06.53.48:345][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.11-06.53.48:385][  0]LogSlate: Took 0.007350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-06.53.50:629][ 26]LogAssetRegistry: Asset discovery search completed in 15.4528 seconds
+[2019.12.11-06.53.50:636][ 26]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.12.11-06.53.50:636][ 26]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2019.12.11-06.53.59:161][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-06.53.59:239][249]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-06.53.59:263][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-06.53.59:263][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-06.53.59:266][249]PIE: New page: PIE session: NewMap (Dec 12, 2019, 12:53:59 AM)
+[2019.12.11-06.53.59:268][249]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.11-06.53.59:269][249]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.53.59:275][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005751s)
+[2019.12.11-06.53.59:276][249]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-06.53.59:276][249]LogPlayLevel: PIE: World Init took: (0.001483s)
+[2019.12.11-06.53.59:276][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007519s)
+[2019.12.11-06.53.59:305][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.11-06.53.59:309][249]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-06.53.59:326][249]LogInit: FAudioDevice initialized.
+[2019.12.11-06.53.59:340][249]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-06.53.59:343][249]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-15.53.59
+[2019.12.11-06.53.59:343][249]LogWorld: Bringing up level for play took: 0.002099
+[2019.12.11-06.53.59:344][249]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.12.11-06.53.59:355][249]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.11-06.53.59:357][249]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.767
+[2019.12.11-06.53.59:358][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-06.54.10:705][641]Cmd: RestartLevel
+[2019.12.11-06.54.10:730][642]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.11-06.54.10:731][642]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.11-06.54.10:731][642]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.54.10:732][642]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.54.10:787][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.12.11-06.54.10:787][642]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.54.10:793][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005806s)
+[2019.12.11-06.54.10:794][642]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-06.54.10:795][642]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2019.12.11-06.54.10:795][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007122s)
+[2019.12.11-06.54.10:795][642]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-06.54.10:797][642]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-15.54.10
+[2019.12.11-06.54.10:797][642]LogWorld: Bringing up level for play took: 0.002080
+[2019.12.11-06.54.10:800][642]LogLoad: Took 0.069091 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.11-06.54.15:491][807]Cmd: RestartLevel
+[2019.12.11-06.54.15:518][808]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.11-06.54.15:519][808]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.11-06.54.15:519][808]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.54.15:520][808]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.54.15:579][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.12.11-06.54.15:580][808]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.54.15:589][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009275s)
+[2019.12.11-06.54.15:591][808]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-06.54.15:591][808]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2019.12.11-06.54.15:591][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.011088s)
+[2019.12.11-06.54.15:591][808]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-06.54.15:594][808]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-15.54.15
+[2019.12.11-06.54.15:594][808]LogWorld: Bringing up level for play took: 0.002670
+[2019.12.11-06.54.15:597][808]LogLoad: Took 0.078594 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.11-06.54.24:263][118]Cmd: RestartLevel
+[2019.12.11-06.54.24:290][119]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.11-06.54.24:290][119]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.11-06.54.24:290][119]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.54.24:291][119]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.54.24:343][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.12.11-06.54.24:344][119]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.54.24:351][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006591s)
+[2019.12.11-06.54.24:352][119]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-06.54.24:352][119]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2019.12.11-06.54.24:352][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007889s)
+[2019.12.11-06.54.24:352][119]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-06.54.24:354][119]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-15.54.24
+[2019.12.11-06.54.24:354][119]LogWorld: Bringing up level for play took: 0.001689
+[2019.12.11-06.54.24:356][119]LogLoad: Took 0.065857 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.11-06.54.37:808][601]Cmd: RestartLevel
+[2019.12.11-06.54.37:834][602]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.11-06.54.37:835][602]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.11-06.54.37:835][602]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.54.37:836][602]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.54.37:887][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.12.11-06.54.37:888][602]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.54.37:894][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005685s)
+[2019.12.11-06.54.37:895][602]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-06.54.37:895][602]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2019.12.11-06.54.37:895][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.006967s)
+[2019.12.11-06.54.37:895][602]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-06.54.37:897][602]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-15.54.37
+[2019.12.11-06.54.37:898][602]LogWorld: Bringing up level for play took: 0.002043
+[2019.12.11-06.54.37:902][602]LogLoad: Took 0.066762 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.11-06.55.05:975][616]Cmd: RestartLevel
+[2019.12.11-06.55.06:002][617]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.11-06.55.06:002][617]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.11-06.55.06:002][617]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.55.06:003][617]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.55.06:059][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.12.11-06.55.06:059][617]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.55.06:067][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008140s)
+[2019.12.11-06.55.06:069][617]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-06.55.06:069][617]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2019.12.11-06.55.06:069][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.009831s)
+[2019.12.11-06.55.06:069][617]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-06.55.06:071][617]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-15.55.06
+[2019.12.11-06.55.06:071][617]LogWorld: Bringing up level for play took: 0.001984
+[2019.12.11-06.55.06:074][617]LogLoad: Took 0.071430 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.11-06.55.18:358][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-06.55.18:362][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.55.18:362][ 51]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-06.55.18:363][ 51]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-06.55.18:432][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-06.55.18:433][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-06.55.18:471][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-06.55.18:478][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.11-06.55.18:509][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.11-07.01.23:864][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.01.24:207][670]Candidate modules for hot reload:
+[2019.12.11-07.01.24:207][670]  Pacman2
+[2019.12.11-07.01.24:213][670]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,415 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.01.24:219][670]Warning: Starting HotReload took  0.1s.
+[2019.12.11-07.03.46:065][ 57]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:03:46 AM
+[2019.12.11-07.03.46:078][ 57]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog: Reflection code generated for Pacman2Editor in 63.7690237 seconds
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog: Distributing 5 actions to XGE
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog: License is invalid:
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog: 
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.03.46:080][ 57]CompilerResultsLog: PHud.cpp (0:39.34 at +0:00)
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: Foe.cpp (0:21.98 at +0:39)
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Public\AIFoe.h(28): warning C4996: 'AAIController::OnMoveCompleted': This function is now deprecated, please use version with EPathFollowingResultDetails parameter. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AIController.h(223): note: see declaration of 'AAIController::OnMoveCompleted'
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Private\Foe.cpp(36): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(658): note: see declaration of 'USceneComponent::AttachTo'
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: UE4Editor-Pacman2-0415.dll (0:03.21 at +1:01)
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0415.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0415.suppressed.exp
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: UE4Editor-Pacman2-0415.lib (0:00.37 at +1:04)
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0415.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0415.exp
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: Pacman2Editor.target (0:01.71 at +1:05)
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: 
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: 
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: 
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: Total time in XGE executor: 67.34 seconds
+[2019.12.11-07.03.46:081][ 57]CompilerResultsLog: Total execution time: 141.51 seconds
+[2019.12.11-07.03.46:084][ 57]LogMainFrame: MainFrame: Module compiling took 141.932 seconds
+[2019.12.11-07.03.46:253][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   9.66ms
+[2019.12.11-07.03.46:615][ 57]LogContentBrowser: Native class hierarchy populated in 0.1531 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.03.46:623][ 57]Display: HotReload took 142.5s.
+[2019.12.11-07.03.49:281][114]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={A69C8653-4205-D9A2-56C7-5486E16FCFD8}
+[2019.12.11-07.03.49:507][120]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.03.49:589][120]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.03.49:591][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.03.49:594][120]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:03:49 AM)
+[2019.12.11-07.03.49:600][120]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.03.49:660][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059126s)
+[2019.12.11-07.03.49:675][120]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.03.49:678][120]LogPlayLevel: PIE: World Init took: (0.017514s)
+[2019.12.11-07.03.49:678][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.077804s)
+[2019.12.11-07.03.49:699][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.12.11-07.03.49:721][120]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.03.49:741][120]LogInit: FAudioDevice initialized.
+[2019.12.11-07.03.49:800][120]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.03.49:816][120]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.03.49
+[2019.12.11-07.03.49:820][120]LogWorld: Bringing up level for play took: 0.015986
+[2019.12.11-07.03.49:825][120]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.11-07.03.49:854][120]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.27
+[2019.12.11-07.03.49:859][120]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.04.25:201][955]Cmd: RestartLevel
+[2019.12.11-07.04.25:224][956]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.11-07.04.25:225][956]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.11-07.04.25:225][956]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.04.25:228][956]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.04.25:289][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.12.11-07.04.25:290][956]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.04.25:296][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005886s)
+[2019.12.11-07.04.25:298][956]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.04.25:298][956]LogPlayLevel: PIE: World Init took: (0.001788s)
+[2019.12.11-07.04.25:298][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007860s)
+[2019.12.11-07.04.25:298][956]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.04.25:301][956]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.04.25
+[2019.12.11-07.04.25:301][956]LogWorld: Bringing up level for play took: 0.002338
+[2019.12.11-07.04.25:303][956]LogLoad: Took 0.078091 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.11-07.04.29:207][ 90]Cmd: RestartLevel
+[2019.12.11-07.04.29:234][ 91]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.11-07.04.29:234][ 91]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.11-07.04.29:234][ 91]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.04.29:236][ 91]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.04.29:289][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.11-07.04.29:290][ 91]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.04.29:296][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006440s)
+[2019.12.11-07.04.29:297][ 91]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.04.29:297][ 91]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2019.12.11-07.04.29:297][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007666s)
+[2019.12.11-07.04.29:297][ 91]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.04.29:300][ 91]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.04.29
+[2019.12.11-07.04.29:301][ 91]LogWorld: Bringing up level for play took: 0.003335
+[2019.12.11-07.04.29:304][ 91]LogLoad: Took 0.069701 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.11-07.04.53:983][968]Cmd: RestartLevel
+[2019.12.11-07.04.54:010][969]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.11-07.04.54:010][969]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.11-07.04.54:010][969]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.04.54:011][969]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.04.54:063][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.12.11-07.04.54:064][969]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.04.54:071][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006771s)
+[2019.12.11-07.04.54:072][969]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.04.54:072][969]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2019.12.11-07.04.54:072][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.008015s)
+[2019.12.11-07.04.54:072][969]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.04.54:074][969]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.04.54
+[2019.12.11-07.04.54:074][969]LogWorld: Bringing up level for play took: 0.001884
+[2019.12.11-07.04.54:077][969]LogLoad: Took 0.066958 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.11-07.05.00:372][190]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.05.00:375][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.05.00:375][190]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.05.00:375][190]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.05.00:450][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.05.00:451][190]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.05.00:486][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.05.00:491][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.11-07.05.00:536][191]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.11-07.06.09:432][433]LogSlate: Took 0.001738 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-07.06.27:923][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.06.28:270][567]Candidate modules for hot reload:
+[2019.12.11-07.06.28:270][567]  Pacman2
+[2019.12.11-07.06.28:271][567]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,462 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.06.28:274][567]Warning: Starting HotReload took  0.3s.
+[2019.12.11-07.08.27:371][264]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:08:27 AM
+[2019.12.11-07.08.27:374][264]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.08.27:374][264]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.08.27:374][264]CompilerResultsLog: Reflection code generated for Pacman2Editor in 66.9716819 seconds
+[2019.12.11-07.08.27:374][264]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.08.27:374][264]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.11-07.08.27:374][264]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.08.27:374][264]CompilerResultsLog: License is invalid:
+[2019.12.11-07.08.27:374][264]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.08.27:374][264]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.08.27:374][264]CompilerResultsLog: 
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: PHud.cpp (0:32.29 at +0:00)
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: UE4Editor-Pacman2-0462.dll (0:02.62 at +0:32)
+[2019.12.11-07.08.27:375][264]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0462.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0462.suppressed.exp
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: UE4Editor-Pacman2-0462.lib (0:00.48 at +0:35)
+[2019.12.11-07.08.27:375][264]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0462.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0462.exp
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: Pacman2Editor.target (0:01.65 at +0:35)
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: 
+[2019.12.11-07.08.27:375][264]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: 
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.08.27:375][264]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: 
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: Total time in XGE executor: 37.81 seconds
+[2019.12.11-07.08.27:375][264]CompilerResultsLog: Total execution time: 118.75 seconds
+[2019.12.11-07.08.27:376][264]LogMainFrame: MainFrame: Module compiling took 119.111 seconds
+[2019.12.11-07.08.27:419][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.12.11-07.08.27:459][264]LogContentBrowser: Native class hierarchy populated in 0.0226 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.08.27:462][264]Display: HotReload took 119.4s.
+[2019.12.11-07.08.58:414][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.08.58:457][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.08.58:458][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.08.58:459][ 44]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:08:58 AM)
+[2019.12.11-07.08.58:460][ 44]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.08.58:494][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033973s)
+[2019.12.11-07.08.58:500][ 44]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.08.58:501][ 44]LogPlayLevel: PIE: World Init took: (0.006955s)
+[2019.12.11-07.08.58:501][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.041819s)
+[2019.12.11-07.08.58:524][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.12.11-07.08.58:530][ 44]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.08.58:550][ 44]LogInit: FAudioDevice initialized.
+[2019.12.11-07.08.58:567][ 44]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.08.58:572][ 44]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.08.58
+[2019.12.11-07.08.58:573][ 44]LogWorld: Bringing up level for play took: 0.004584
+[2019.12.11-07.08.58:573][ 44]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.11-07.08.58:589][ 44]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.465
+[2019.12.11-07.08.58:590][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.09.07:911][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.09.07:913][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.09.07:913][371]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.09.07:914][371]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.09.07:988][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.09.07:989][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.09.08:022][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.09.08:028][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.11-07.09.08:064][372]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.11-07.09.23:234][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.09.23:519][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.11-07.09.23:560][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.12.11-07.09.24:644][513]LogSavePackage: Moving '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Saved/NewMap3C67CACB40D75B5DA9B5688F1D5C07FE.tmp' to '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap'
+[2019.12.11-07.09.24:712][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.11-07.09.24:940][513]LogSavePackage: Moving '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Saved/NewMap_BuiltData9D25B04E4C7CCCABF00997A7D52B84A4.tmp' to '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap_BuiltData.uasset'
+[2019.12.11-07.09.27:346][574]Candidate modules for hot reload:
+[2019.12.11-07.09.27:346][574]  Pacman2
+[2019.12.11-07.09.27:347][574]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,4005 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.09.27:353][574]Warning: Starting HotReload took  0.1s.
+[2019.12.11-07.10.38:221][789]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:10:38 AM
+[2019.12.11-07.10.38:221][789]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.10.38:221][789]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.10.38:221][789]CompilerResultsLog: Reflection code generated for Pacman2Editor in 24.8511459 seconds
+[2019.12.11-07.10.38:221][789]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.10.38:221][789]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.11-07.10.38:221][789]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.10.38:221][789]CompilerResultsLog: License is invalid:
+[2019.12.11-07.10.38:221][789]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.10.38:221][789]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: 
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: PHud.cpp (0:31.98 at +0:00)
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: UE4Editor-Pacman2-4005.dll (0:03.28 at +0:32)
+[2019.12.11-07.10.38:222][789]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-4005.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-4005.suppressed.exp
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: UE4Editor-Pacman2-4005.lib (0:00.46 at +0:35)
+[2019.12.11-07.10.38:222][789]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-4005.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-4005.exp
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: Pacman2Editor.target (0:00.78 at +0:35)
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: 
+[2019.12.11-07.10.38:222][789]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: 
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.10.38:222][789]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: 
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: Total time in XGE executor: 37.32 seconds
+[2019.12.11-07.10.38:222][789]CompilerResultsLog: Total execution time: 70.53 seconds
+[2019.12.11-07.10.38:222][789]LogMainFrame: MainFrame: Module compiling took 70.883 seconds
+[2019.12.11-07.10.38:297][789]LogUObjectHash: Compacting FUObjectHashTables data took  12.02ms
+[2019.12.11-07.10.38:604][789]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0020 seconds. Added 6 classes and 3 folders.
+[2019.12.11-07.10.38:608][789]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-07.10.38:714][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.12.11-07.10.38:730][789]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.10.38:730][789]Display: HotReload took 71.5s.
+[2019.12.11-07.11.13:289][361]LogAssetEditorManager: Opening Asset editor for Class /Script/Pacman2.Pacman2GameModeBase
+[2019.12.11-07.11.37:068][418]Candidate modules for hot reload:
+[2019.12.11-07.11.37:068][418]  Pacman2
+[2019.12.11-07.11.37:068][418]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,9341 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.11.37:073][418]Warning: Starting HotReload took  0.3s.
+[2019.12.11-07.13.15:746][566]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:13:15 AM
+[2019.12.11-07.13.15:747][566]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.13.15:747][566]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.13.15:747][566]CompilerResultsLog: Reflection code generated for Pacman2Editor in 80.7530725 seconds
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: Distributing 3 actions to XGE
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: License is invalid:
+[2019.12.11-07.13.15:748][566]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.13.15:748][566]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: 
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: UE4Editor-Pacman2-9341.dll (0:06.61 at +0:00)
+[2019.12.11-07.13.15:748][566]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-9341.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-9341.suppressed.exp
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: UE4Editor-Pacman2-9341.lib (0:00.71 at +0:06)
+[2019.12.11-07.13.15:748][566]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-9341.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-9341.exp
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: Pacman2Editor.target (0:02.09 at +0:07)
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: 
+[2019.12.11-07.13.15:748][566]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: 
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.13.15:748][566]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: 
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: Total time in XGE executor: 10.18 seconds
+[2019.12.11-07.13.15:748][566]CompilerResultsLog: Total execution time: 97.38 seconds
+[2019.12.11-07.13.15:748][566]LogMainFrame: MainFrame: Module compiling took 98.686 seconds
+[2019.12.11-07.13.15:806][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.11-07.13.15:894][566]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0023 seconds. Added 6 classes and 3 folders.
+[2019.12.11-07.13.15:899][566]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-07.13.16:028][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.12.11-07.13.16:051][566]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.13.16:051][566]Display: HotReload took 99.2s.
+[2019.12.11-07.13.19:073][641]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.13.19:145][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.13.19:147][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.13.19:147][641]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:13:19 AM)
+[2019.12.11-07.13.19:148][641]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.13.19:182][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034191s)
+[2019.12.11-07.13.19:191][641]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.13.19:193][641]LogPlayLevel: PIE: World Init took: (0.010444s)
+[2019.12.11-07.13.19:194][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.046085s)
+[2019.12.11-07.13.19:228][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.12.11-07.13.19:235][641]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.13.19:259][641]LogInit: FAudioDevice initialized.
+[2019.12.11-07.13.19:274][641]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.13.19:288][641]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.13.19
+[2019.12.11-07.13.19:290][641]LogWorld: Bringing up level for play took: 0.012965
+[2019.12.11-07.13.19:293][641]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.11-07.13.19:311][641]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.813
+[2019.12.11-07.13.19:312][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.13.25:976][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.13.25:977][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.13.25:977][864]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.13.25:978][864]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.13.25:998][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.13.25:998][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.13.26:024][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.13.26:030][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.12.11-07.13.26:081][867]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.11-07.13.46:279][ 63]Candidate modules for hot reload:
+[2019.12.11-07.13.46:279][ 63]  Pacman2
+[2019.12.11-07.13.46:280][ 63]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,7229 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.13.46:283][ 63]Warning: Starting HotReload took  0.0s.
+[2019.12.11-07.14.23:673][841]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:14:23 AM
+[2019.12.11-07.14.23:674][841]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.14.23:674][841]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.14.23:674][841]CompilerResultsLog: Reflection code generated for Pacman2Editor in 15.3695769 seconds
+[2019.12.11-07.14.23:674][841]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.14.23:674][841]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.11-07.14.23:674][841]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.14.23:674][841]CompilerResultsLog: License is invalid:
+[2019.12.11-07.14.23:674][841]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.14.23:675][841]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.14.23:675][841]CompilerResultsLog: 
+[2019.12.11-07.14.23:675][841]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.14.23:675][841]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.14.23:675][841]CompilerResultsLog: PHud.cpp (0:14.39 at +0:00)
+[2019.12.11-07.14.23:675][841]CompilerResultsLog: UE4Editor-Pacman2-7229.dll (0:01.21 at +0:14)
+[2019.12.11-07.14.23:675][841]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-7229.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-7229.suppressed.exp
+[2019.12.11-07.14.23:675][841]CompilerResultsLog: UE4Editor-Pacman2-7229.lib (0:00.26 at +0:15)
+[2019.12.11-07.14.23:675][841]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-7229.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-7229.exp
+[2019.12.11-07.14.23:675][841]CompilerResultsLog: Pacman2Editor.target (0:00.43 at +0:15)
+[2019.12.11-07.14.23:675][841]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.14.23:675][841]CompilerResultsLog: 
+[2019.12.11-07.14.23:676][841]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.14.23:676][841]CompilerResultsLog: 
+[2019.12.11-07.14.23:676][841]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.14.23:676][841]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.14.23:676][841]CompilerResultsLog: 
+[2019.12.11-07.14.23:676][841]CompilerResultsLog: Total time in XGE executor: 16.71 seconds
+[2019.12.11-07.14.23:676][841]CompilerResultsLog: Total execution time: 37.23 seconds
+[2019.12.11-07.14.23:676][841]LogMainFrame: MainFrame: Module compiling took 37.401 seconds
+[2019.12.11-07.14.23:725][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.12.11-07.14.23:776][841]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0004 seconds. Added 6 classes and 3 folders.
+[2019.12.11-07.14.23:779][841]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-07.14.23:858][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.12.11-07.14.23:872][841]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.14.23:872][841]Display: HotReload took 37.6s.
+[2019.12.11-07.14.26:634][912]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.14.26:679][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.14.26:679][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.14.26:679][912]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:14:26 AM)
+[2019.12.11-07.14.26:680][912]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.14.26:691][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011204s)
+[2019.12.11-07.14.26:692][912]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.14.26:693][912]LogPlayLevel: PIE: World Init took: (0.001744s)
+[2019.12.11-07.14.26:693][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.013239s)
+[2019.12.11-07.14.26:724][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.11-07.14.26:727][912]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.14.26:739][912]LogInit: FAudioDevice initialized.
+[2019.12.11-07.14.26:751][912]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.14.26:753][912]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.14.26
+[2019.12.11-07.14.26:753][912]LogWorld: Bringing up level for play took: 0.001713
+[2019.12.11-07.14.26:753][912]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.11-07.14.26:757][912]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.633
+[2019.12.11-07.14.26:757][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.14.52:643][837]Cmd: RestartLevel
+[2019.12.11-07.14.52:667][838]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.11-07.14.52:668][838]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.11-07.14.52:668][838]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.14.52:669][838]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.14.52:722][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.11-07.14.52:722][838]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.14.52:728][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005952s)
+[2019.12.11-07.14.52:729][838]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.14.52:729][838]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2019.12.11-07.14.52:729][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007238s)
+[2019.12.11-07.14.52:729][838]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.14.52:732][838]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.14.52
+[2019.12.11-07.14.52:732][838]LogWorld: Bringing up level for play took: 0.002356
+[2019.12.11-07.14.52:736][838]LogLoad: Took 0.069212 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.11-07.14.55:429][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.14.55:430][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.14.55:430][931]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.14.55:430][931]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.14.55:506][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.14.55:506][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.14.55:534][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.14.55:537][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.12.11-07.14.55:559][932]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.11-07.21.32:484][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.21.32:671][228]Candidate modules for hot reload:
+[2019.12.11-07.21.32:671][228]  Pacman2
+[2019.12.11-07.21.32:671][228]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,446 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.21.32:676][228]Warning: Starting HotReload took  0.1s.
+[2019.12.11-07.21.57:652][831]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:21:57 AM
+[2019.12.11-07.21.57:652][831]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.21.57:652][831]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.21.57:653][831]CompilerResultsLog: Reflection code generated for Pacman2Editor in 15.03531 seconds
+[2019.12.11-07.21.57:653][831]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.21.57:653][831]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.11-07.21.57:653][831]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.21.57:653][831]CompilerResultsLog: License is invalid:
+[2019.12.11-07.21.57:653][831]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.21.57:653][831]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.21.57:653][831]CompilerResultsLog: 
+[2019.12.11-07.21.57:653][831]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.21.57:653][831]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.21.57:653][831]CompilerResultsLog: PHud.cpp (0:03.61 at +0:00)
+[2019.12.11-07.21.57:654][831]CompilerResultsLog: UE4Editor-Pacman2-0446.dll (0:01.43 at +0:03)
+[2019.12.11-07.21.57:654][831]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0446.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0446.suppressed.exp
+[2019.12.11-07.21.57:654][831]CompilerResultsLog: UE4Editor-Pacman2-0446.lib (0:00.34 at +0:05)
+[2019.12.11-07.21.57:654][831]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0446.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0446.exp
+[2019.12.11-07.21.57:654][831]CompilerResultsLog: Pacman2Editor.target (0:00.53 at +0:05)
+[2019.12.11-07.21.57:654][831]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.21.57:654][831]CompilerResultsLog: 
+[2019.12.11-07.21.57:654][831]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.21.57:654][831]CompilerResultsLog: 
+[2019.12.11-07.21.57:654][831]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.21.57:654][831]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.21.57:654][831]CompilerResultsLog: 
+[2019.12.11-07.21.57:654][831]CompilerResultsLog: Total time in XGE executor: 6.35 seconds
+[2019.12.11-07.21.57:654][831]CompilerResultsLog: Total execution time: 24.76 seconds
+[2019.12.11-07.21.57:654][831]LogMainFrame: MainFrame: Module compiling took 25.020 seconds
+[2019.12.11-07.21.57:707][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.11-07.21.57:737][831]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.21.57:737][831]Display: HotReload took 25.1s.
+[2019.12.11-07.24.51:089][494]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.24.51:128][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.24.51:128][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.24.51:129][494]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:24:51 AM)
+[2019.12.11-07.24.51:129][494]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.24.51:139][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010200s)
+[2019.12.11-07.24.51:141][494]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.24.51:141][494]LogPlayLevel: PIE: World Init took: (0.001894s)
+[2019.12.11-07.24.51:141][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.012315s)
+[2019.12.11-07.24.51:170][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.12.11-07.24.51:173][494]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.24.51:187][494]LogInit: FAudioDevice initialized.
+[2019.12.11-07.24.51:193][494]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.24.51:195][494]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.24.51
+[2019.12.11-07.24.51:196][494]LogWorld: Bringing up level for play took: 0.001832
+[2019.12.11-07.24.51:196][494]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.11-07.24.51:200][494]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.925
+[2019.12.11-07.24.51:200][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.24.58:151][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.24.58:152][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.24.58:152][740]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.24.58:152][740]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.24.58:226][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.24.58:227][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.24.58:253][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.24.58:257][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.11-07.24.58:282][741]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.11-07.25.05:674][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-07.25.05:869][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.11-07.25.05:895][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.12.11-07.25.06:109][943]LogSavePackage: Moving '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Saved/NewMapE7E9352B4797C01C363826BD7B72E48E.tmp' to '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap'
+[2019.12.11-07.25.06:156][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.11-07.25.06:346][943]LogSavePackage: Moving '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Saved/NewMap_BuiltData21AAC5BD4B2DA3EEF79505BA47090847.tmp' to '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap_BuiltData.uasset'
+[2019.12.11-07.25.16:894][ 11]LogAssetEditorManager: Opening Asset editor for Class /Script/Pacman2.Pacman2GameModeBase
+[2019.12.11-07.25.41:620][ 86]Candidate modules for hot reload:
+[2019.12.11-07.25.41:620][ 86]  Pacman2
+[2019.12.11-07.25.41:620][ 86]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,6495 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.25.41:624][ 86]Warning: Starting HotReload took  0.2s.
+[2019.12.11-07.26.21:201][ 38]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:26:21 AM
+[2019.12.11-07.26.21:202][ 38]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.26.21:202][ 38]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.26.21:202][ 38]CompilerResultsLog: Reflection code generated for Pacman2Editor in 23.3147647 seconds
+[2019.12.11-07.26.21:202][ 38]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.26.21:202][ 38]CompilerResultsLog: Distributing 3 actions to XGE
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog: License is invalid:
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog: 
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog: UE4Editor-Pacman2-6495.dll (0:08.12 at +0:00)
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6495.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6495.suppressed.exp
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog: UE4Editor-Pacman2-6495.lib (0:00.40 at +0:08)
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6495.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6495.exp
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog: Pacman2Editor.target (0:00.56 at +0:08)
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog: 
+[2019.12.11-07.26.21:203][ 38]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.26.21:204][ 38]CompilerResultsLog: 
+[2019.12.11-07.26.21:204][ 38]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.26.21:204][ 38]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.26.21:204][ 38]CompilerResultsLog: 
+[2019.12.11-07.26.21:204][ 38]CompilerResultsLog: Total time in XGE executor: 9.95 seconds
+[2019.12.11-07.26.21:204][ 38]CompilerResultsLog: Total execution time: 39.08 seconds
+[2019.12.11-07.26.21:204][ 38]LogMainFrame: MainFrame: Module compiling took 39.589 seconds
+[2019.12.11-07.26.21:260][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2019.12.11-07.26.21:318][ 38]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0005 seconds. Added 6 classes and 3 folders.
+[2019.12.11-07.26.21:322][ 38]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-07.26.21:418][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.12.11-07.26.21:438][ 38]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.26.21:438][ 38]Display: HotReload took 40.0s.
+[2019.12.11-07.26.24:233][103]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.26.24:275][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.26.24:275][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.26.24:275][103]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:26:24 AM)
+[2019.12.11-07.26.24:276][103]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.26.24:296][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020324s)
+[2019.12.11-07.26.24:297][103]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.26.24:297][103]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2019.12.11-07.26.24:297][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.021856s)
+[2019.12.11-07.26.24:324][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.11-07.26.24:327][103]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.26.24:344][103]LogInit: FAudioDevice initialized.
+[2019.12.11-07.26.24:358][103]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.26.24:360][103]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.26.24
+[2019.12.11-07.26.24:360][103]LogWorld: Bringing up level for play took: 0.002164
+[2019.12.11-07.26.24:360][103]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.11-07.26.24:365][103]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.241
+[2019.12.11-07.26.24:365][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.26.40:236][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.26.40:236][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.26.40:236][656]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.26.40:236][656]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.26.40:260][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.26.40:261][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.26.40:285][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.26.40:288][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.11-07.26.40:376][659]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.11-07.27.08:940][840]Candidate modules for hot reload:
+[2019.12.11-07.27.08:940][840]  Pacman2
+[2019.12.11-07.27.08:940][840]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,294 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.27.08:943][840]Warning: Starting HotReload took  0.0s.
+[2019.12.11-07.27.32:993][394]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:27:32 AM
+[2019.12.11-07.27.32:993][394]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.27.32:993][394]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.27.32:994][394]CompilerResultsLog: Reflection code generated for Pacman2Editor in 13.7758597 seconds
+[2019.12.11-07.27.32:994][394]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.27.32:994][394]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.11-07.27.32:994][394]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.27.32:994][394]CompilerResultsLog: License is invalid:
+[2019.12.11-07.27.32:994][394]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.27.32:994][394]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.27.32:994][394]CompilerResultsLog: 
+[2019.12.11-07.27.32:994][394]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.27.32:994][394]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.27.32:995][394]CompilerResultsLog: PHud.cpp (0:05.04 at +0:00)
+[2019.12.11-07.27.32:995][394]CompilerResultsLog: UE4Editor-Pacman2-0294.dll (0:01.45 at +0:05)
+[2019.12.11-07.27.32:995][394]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0294.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0294.suppressed.exp
+[2019.12.11-07.27.32:995][394]CompilerResultsLog: UE4Editor-Pacman2-0294.lib (0:00.34 at +0:06)
+[2019.12.11-07.27.32:995][394]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0294.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-0294.exp
+[2019.12.11-07.27.32:995][394]CompilerResultsLog: Pacman2Editor.target (0:00.51 at +0:06)
+[2019.12.11-07.27.32:995][394]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.27.32:995][394]CompilerResultsLog: 
+[2019.12.11-07.27.32:995][394]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.27.32:996][394]CompilerResultsLog: 
+[2019.12.11-07.27.32:996][394]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.27.32:996][394]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.27.32:996][394]CompilerResultsLog: 
+[2019.12.11-07.27.32:996][394]CompilerResultsLog: Total time in XGE executor: 7.78 seconds
+[2019.12.11-07.27.32:996][394]CompilerResultsLog: Total execution time: 23.92 seconds
+[2019.12.11-07.27.32:996][394]LogMainFrame: MainFrame: Module compiling took 24.060 seconds
+[2019.12.11-07.27.33:042][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.11-07.27.33:072][394]LogContentBrowser: Native class hierarchy populated in 0.0201 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.27.33:072][394]Display: HotReload took 24.1s.
+[2019.12.11-07.27.34:784][433]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.27.34:804][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.27.34:804][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.27.34:804][433]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:27:34 AM)
+[2019.12.11-07.27.34:804][433]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.27.34:811][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006137s)
+[2019.12.11-07.27.34:812][433]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.27.34:812][433]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2019.12.11-07.27.34:812][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007504s)
+[2019.12.11-07.27.34:831][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.12.11-07.27.34:833][433]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.27.34:847][433]LogInit: FAudioDevice initialized.
+[2019.12.11-07.27.34:855][433]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.27.34:857][433]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.27.34
+[2019.12.11-07.27.34:858][433]LogWorld: Bringing up level for play took: 0.001790
+[2019.12.11-07.27.34:858][433]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.11-07.27.34:864][433]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.74
+[2019.12.11-07.27.34:864][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.27.37:149][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.27.37:150][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.27.37:150][510]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.27.37:150][510]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.27.37:176][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.27.37:176][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.27.37:199][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.27.37:202][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.11-07.27.37:296][513]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.11-07.27.46:692][589]LogAssetEditorManager: Opening Asset editor for Class /Script/Pacman2.Pacman2GameModeBase
+[2019.12.11-07.29.01:055][791]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.29.01:079][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.29.01:080][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.29.01:082][791]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:29:01 AM)
+[2019.12.11-07.29.01:084][791]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.29.01:115][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031469s)
+[2019.12.11-07.29.01:120][791]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.29.01:121][791]LogPlayLevel: PIE: World Init took: (0.005611s)
+[2019.12.11-07.29.01:121][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.037370s)
+[2019.12.11-07.29.01:145][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.12.11-07.29.01:149][791]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.29.01:188][791]LogInit: FAudioDevice initialized.
+[2019.12.11-07.29.01:200][791]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.29.01:209][791]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.29.01
+[2019.12.11-07.29.01:209][791]LogWorld: Bringing up level for play took: 0.005583
+[2019.12.11-07.29.01:211][791]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.11-07.29.01:221][791]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 1.097
+[2019.12.11-07.29.01:223][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.29.07:538][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.29.07:540][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.29.07:540][ 16]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.29.07:541][ 16]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.29.07:568][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.29.07:568][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.29.07:595][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.29.07:598][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.12.11-07.29.07:660][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.11-07.29.09:657][ 72]Candidate modules for hot reload:
+[2019.12.11-07.29.09:657][ 72]  Pacman2
+[2019.12.11-07.29.09:658][ 72]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,6189 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.29.09:663][ 72]Warning: Starting HotReload took  0.1s.
+[2019.12.11-07.30.08:492][403]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:30:08 AM
+[2019.12.11-07.30.08:493][403]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.30.08:493][403]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.30.08:494][403]CompilerResultsLog: Reflection code generated for Pacman2Editor in 49.0780025 seconds
+[2019.12.11-07.30.08:494][403]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.30.08:494][403]CompilerResultsLog: Distributing 3 actions to XGE
+[2019.12.11-07.30.08:494][403]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.30.08:494][403]CompilerResultsLog: License is invalid:
+[2019.12.11-07.30.08:494][403]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.30.08:494][403]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.30.08:494][403]CompilerResultsLog: 
+[2019.12.11-07.30.08:494][403]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.30.08:494][403]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.30.08:494][403]CompilerResultsLog: UE4Editor-Pacman2-6189.dll (0:01.53 at +0:00)
+[2019.12.11-07.30.08:494][403]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6189.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6189.suppressed.exp
+[2019.12.11-07.30.08:494][403]CompilerResultsLog: UE4Editor-Pacman2-6189.lib (0:00.31 at +0:01)
+[2019.12.11-07.30.08:494][403]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6189.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6189.exp
+[2019.12.11-07.30.08:495][403]CompilerResultsLog: Pacman2Editor.target (0:01.54 at +0:01)
+[2019.12.11-07.30.08:495][403]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.30.08:495][403]CompilerResultsLog: 
+[2019.12.11-07.30.08:495][403]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.30.08:495][403]CompilerResultsLog: 
+[2019.12.11-07.30.08:495][403]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.30.08:495][403]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.30.08:495][403]CompilerResultsLog: 
+[2019.12.11-07.30.08:495][403]CompilerResultsLog: Total time in XGE executor: 3.81 seconds
+[2019.12.11-07.30.08:495][403]CompilerResultsLog: Total execution time: 58.65 seconds
+[2019.12.11-07.30.08:495][403]LogMainFrame: MainFrame: Module compiling took 58.844 seconds
+[2019.12.11-07.30.08:549][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.12.11-07.30.08:607][403]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0012 seconds. Added 6 classes and 3 folders.
+[2019.12.11-07.30.08:610][403]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-07.30.08:699][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.12.11-07.30.08:716][403]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.30.08:716][403]Display: HotReload took 59.2s.
+[2019.12.11-07.30.10:816][459]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.30.10:879][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.30.10:879][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.30.10:879][459]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:30:10 AM)
+[2019.12.11-07.30.10:879][459]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.30.10:899][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019308s)
+[2019.12.11-07.30.10:901][459]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.30.10:902][459]LogPlayLevel: PIE: World Init took: (0.002799s)
+[2019.12.11-07.30.10:902][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.022505s)
+[2019.12.11-07.30.10:933][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.12.11-07.30.10:936][459]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.30.10:949][459]LogInit: FAudioDevice initialized.
+[2019.12.11-07.30.10:956][459]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.30.10:957][459]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.30.10
+[2019.12.11-07.30.10:958][459]LogWorld: Bringing up level for play took: 0.001701
+[2019.12.11-07.30.10:958][459]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.11-07.30.10:961][459]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.837
+[2019.12.11-07.30.10:962][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.30.35:951][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.30.35:951][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.30.35:951][273]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.30.35:951][273]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.30.35:985][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.30.35:986][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.30.36:012][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.30.36:015][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.12.11-07.30.36:074][276]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.11-07.31.02:422][455]Candidate modules for hot reload:
+[2019.12.11-07.31.02:422][455]  Pacman2
+[2019.12.11-07.31.02:423][455]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,2399 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.31.02:430][455]Warning: Starting HotReload took  0.0s.
+[2019.12.11-07.31.37:152][311]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:31:37 AM
+[2019.12.11-07.31.37:152][311]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.31.37:153][311]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.31.37:153][311]CompilerResultsLog: Reflection code generated for Pacman2Editor in 14.3127757 seconds
+[2019.12.11-07.31.37:153][311]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.31.37:153][311]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.11-07.31.37:153][311]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.31.37:153][311]CompilerResultsLog: License is invalid:
+[2019.12.11-07.31.37:153][311]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.31.37:153][311]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.31.37:153][311]CompilerResultsLog: 
+[2019.12.11-07.31.37:153][311]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.31.37:153][311]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.31.37:154][311]CompilerResultsLog: PHud.cpp (0:15.43 at +0:00)
+[2019.12.11-07.31.37:154][311]CompilerResultsLog: UE4Editor-Pacman2-2399.dll (0:01.23 at +0:15)
+[2019.12.11-07.31.37:154][311]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2399.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2399.suppressed.exp
+[2019.12.11-07.31.37:154][311]CompilerResultsLog: UE4Editor-Pacman2-2399.lib (0:00.31 at +0:16)
+[2019.12.11-07.31.37:154][311]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2399.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2399.exp
+[2019.12.11-07.31.37:154][311]CompilerResultsLog: Pacman2Editor.target (0:00.51 at +0:17)
+[2019.12.11-07.31.37:154][311]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.31.37:154][311]CompilerResultsLog: 
+[2019.12.11-07.31.37:154][311]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.31.37:154][311]CompilerResultsLog: 
+[2019.12.11-07.31.37:154][311]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.31.37:154][311]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.31.37:155][311]CompilerResultsLog: 
+[2019.12.11-07.31.37:155][311]CompilerResultsLog: Total time in XGE executor: 17.91 seconds
+[2019.12.11-07.31.37:155][311]CompilerResultsLog: Total execution time: 34.58 seconds
+[2019.12.11-07.31.37:155][311]LogMainFrame: MainFrame: Module compiling took 34.763 seconds
+[2019.12.11-07.31.37:206][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.12.11-07.31.37:259][311]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0004 seconds. Added 6 classes and 3 folders.
+[2019.12.11-07.31.37:262][311]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-07.31.37:336][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.11-07.31.37:350][311]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.31.37:350][311]Display: HotReload took 35.0s.
+[2019.12.11-07.31.40:016][383]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.31.40:039][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.31.40:039][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.31.40:039][383]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:31:40 AM)
+[2019.12.11-07.31.40:039][383]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.31.40:046][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006371s)
+[2019.12.11-07.31.40:047][383]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.31.40:047][383]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2019.12.11-07.31.40:047][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007687s)
+[2019.12.11-07.31.40:067][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.11-07.31.40:069][383]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.31.40:082][383]LogInit: FAudioDevice initialized.
+[2019.12.11-07.31.40:090][383]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.31.40:092][383]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.31.40
+[2019.12.11-07.31.40:093][383]LogWorld: Bringing up level for play took: 0.001898
+[2019.12.11-07.31.40:093][383]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.11-07.31.40:097][383]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.027
+[2019.12.11-07.31.40:097][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.31.50:900][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.31.50:901][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.31.50:901][705]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.31.50:901][705]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.31.50:964][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.31.50:964][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.31.50:987][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.31.50:990][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.12.11-07.31.51:001][706]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.11-07.32.03:259][867]Candidate modules for hot reload:
+[2019.12.11-07.32.03:259][867]  Pacman2
+[2019.12.11-07.32.03:259][867]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,1344 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.32.03:262][867]Warning: Starting HotReload took  0.0s.
+[2019.12.11-07.32.26:897][477]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:32:26 AM
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.32.26:898][477]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: Reflection code generated for Pacman2Editor in 15.475503 seconds
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: License is invalid:
+[2019.12.11-07.32.26:898][477]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.32.26:898][477]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: 
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: PHud.cpp (0:03.10 at +0:00)
+[2019.12.11-07.32.26:898][477]CompilerResultsLog: UE4Editor-Pacman2-1344.dll (0:01.40 at +0:03)
+[2019.12.11-07.32.26:899][477]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1344.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1344.suppressed.exp
+[2019.12.11-07.32.26:899][477]CompilerResultsLog: UE4Editor-Pacman2-1344.lib (0:00.29 at +0:04)
+[2019.12.11-07.32.26:899][477]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1344.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1344.exp
+[2019.12.11-07.32.26:899][477]CompilerResultsLog: Pacman2Editor.target (0:00.51 at +0:04)
+[2019.12.11-07.32.26:899][477]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.32.26:899][477]CompilerResultsLog: 
+[2019.12.11-07.32.26:899][477]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.32.26:899][477]CompilerResultsLog: 
+[2019.12.11-07.32.26:899][477]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.32.26:899][477]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.32.26:899][477]CompilerResultsLog: 
+[2019.12.11-07.32.26:899][477]CompilerResultsLog: Total time in XGE executor: 5.73 seconds
+[2019.12.11-07.32.26:899][477]CompilerResultsLog: Total execution time: 23.50 seconds
+[2019.12.11-07.32.26:900][477]LogMainFrame: MainFrame: Module compiling took 23.674 seconds
+[2019.12.11-07.32.26:946][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.11-07.32.27:000][477]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0005 seconds. Added 6 classes and 3 folders.
+[2019.12.11-07.32.27:003][477]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-07.32.27:077][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.11-07.32.27:091][477]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.32.27:091][477]Display: HotReload took 23.9s.
+[2019.12.11-07.32.36:754][739]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.32.36:771][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.32.36:772][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.32.36:772][739]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:32:36 AM)
+[2019.12.11-07.32.36:772][739]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.32.36:778][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006065s)
+[2019.12.11-07.32.36:779][739]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.32.36:779][739]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2019.12.11-07.32.36:779][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007393s)
+[2019.12.11-07.32.36:797][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.12.11-07.32.36:800][739]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.32.36:812][739]LogInit: FAudioDevice initialized.
+[2019.12.11-07.32.36:820][739]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.32.36:822][739]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.32.36
+[2019.12.11-07.32.36:823][739]LogWorld: Bringing up level for play took: 0.001974
+[2019.12.11-07.32.36:823][739]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.11-07.32.36:826][739]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.702
+[2019.12.11-07.32.36:826][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.32.50:084][143]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.32.50:085][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.32.50:085][143]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.32.50:085][143]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.32.50:151][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.32.50:152][143]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.32.50:176][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.32.50:178][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.12.11-07.32.50:189][144]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.11-07.33.21:361][304]Candidate modules for hot reload:
+[2019.12.11-07.33.21:361][304]  Pacman2
+[2019.12.11-07.33.21:362][304]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,6732 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.33.21:368][304]Warning: Starting HotReload took  0.0s.
+[2019.12.11-07.33.45:482][944]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:33:45 AM
+[2019.12.11-07.33.45:483][944]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.33.45:483][944]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.33.45:483][944]CompilerResultsLog: Reflection code generated for Pacman2Editor in 15.6233943 seconds
+[2019.12.11-07.33.45:483][944]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.33.45:484][944]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.11-07.33.45:484][944]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.33.45:484][944]CompilerResultsLog: License is invalid:
+[2019.12.11-07.33.45:484][944]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.33.45:484][944]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.33.45:484][944]CompilerResultsLog: 
+[2019.12.11-07.33.45:484][944]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.33.45:484][944]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.33.45:484][944]CompilerResultsLog: PHud.cpp (0:03.54 at +0:00)
+[2019.12.11-07.33.45:484][944]CompilerResultsLog: UE4Editor-Pacman2-6732.dll (0:01.35 at +0:03)
+[2019.12.11-07.33.45:484][944]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6732.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6732.suppressed.exp
+[2019.12.11-07.33.45:484][944]CompilerResultsLog: UE4Editor-Pacman2-6732.lib (0:00.32 at +0:04)
+[2019.12.11-07.33.45:484][944]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6732.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6732.exp
+[2019.12.11-07.33.45:484][944]CompilerResultsLog: Pacman2Editor.target (0:00.51 at +0:05)
+[2019.12.11-07.33.45:485][944]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.33.45:485][944]CompilerResultsLog: 
+[2019.12.11-07.33.45:485][944]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.33.45:485][944]CompilerResultsLog: 
+[2019.12.11-07.33.45:485][944]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.33.45:485][944]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.33.45:485][944]CompilerResultsLog: 
+[2019.12.11-07.33.45:485][944]CompilerResultsLog: Total time in XGE executor: 6.13 seconds
+[2019.12.11-07.33.45:485][944]CompilerResultsLog: Total execution time: 23.98 seconds
+[2019.12.11-07.33.45:485][944]LogMainFrame: MainFrame: Module compiling took 24.127 seconds
+[2019.12.11-07.33.45:535][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.11-07.33.45:584][944]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0004 seconds. Added 6 classes and 3 folders.
+[2019.12.11-07.33.45:586][944]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-07.33.45:664][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.12.11-07.33.45:679][944]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.33.45:679][944]Display: HotReload took 24.3s.
+[2019.12.11-07.33.47:817][  4]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.33.47:837][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.33.47:837][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.33.47:837][  4]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:33:47 AM)
+[2019.12.11-07.33.47:837][  4]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.33.47:844][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006847s)
+[2019.12.11-07.33.47:845][  4]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.33.47:845][  4]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2019.12.11-07.33.47:845][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.008030s)
+[2019.12.11-07.33.47:869][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.12.11-07.33.47:871][  4]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.33.47:884][  4]LogInit: FAudioDevice initialized.
+[2019.12.11-07.33.47:891][  4]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.33.47:893][  4]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.33.47
+[2019.12.11-07.33.47:893][  4]LogWorld: Bringing up level for play took: 0.002009
+[2019.12.11-07.33.47:893][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.11-07.33.47:897][  4]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.227
+[2019.12.11-07.33.47:897][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.34.00:468][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.34.00:468][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.34.00:468][419]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.34.00:468][419]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.34.00:529][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.34.00:530][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.34.00:555][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.34.00:558][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.12.11-07.34.00:568][420]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.11-07.34.28:380][559]Candidate modules for hot reload:
+[2019.12.11-07.34.28:380][559]  Pacman2
+[2019.12.11-07.34.28:380][559]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,1971 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.34.28:387][559]Warning: Starting HotReload took  0.0s.
+[2019.12.11-07.34.51:931][168]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:34:51 AM
+[2019.12.11-07.34.51:932][168]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.34.51:932][168]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.34.51:932][168]CompilerResultsLog: Reflection code generated for Pacman2Editor in 15.2105054 seconds
+[2019.12.11-07.34.51:932][168]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.34.51:932][168]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: License is invalid:
+[2019.12.11-07.34.51:933][168]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.34.51:933][168]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: 
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: PHud.cpp (0:03.39 at +0:00)
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: UE4Editor-Pacman2-1971.dll (0:01.35 at +0:03)
+[2019.12.11-07.34.51:933][168]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1971.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1971.suppressed.exp
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: UE4Editor-Pacman2-1971.lib (0:00.31 at +0:04)
+[2019.12.11-07.34.51:933][168]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1971.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1971.exp
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: Pacman2Editor.target (0:00.51 at +0:05)
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: 
+[2019.12.11-07.34.51:933][168]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: 
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.34.51:933][168]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: 
+[2019.12.11-07.34.51:933][168]CompilerResultsLog: Total time in XGE executor: 5.97 seconds
+[2019.12.11-07.34.51:934][168]CompilerResultsLog: Total execution time: 23.42 seconds
+[2019.12.11-07.34.51:934][168]LogMainFrame: MainFrame: Module compiling took 23.557 seconds
+[2019.12.11-07.34.51:989][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.12.11-07.34.52:044][168]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0005 seconds. Added 6 classes and 3 folders.
+[2019.12.11-07.34.52:047][168]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-07.34.52:126][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.11-07.34.52:141][168]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.34.52:141][168]Display: HotReload took 23.8s.
+[2019.12.11-07.34.54:189][224]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.34.54:210][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.34.54:210][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.34.54:210][224]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:34:54 AM)
+[2019.12.11-07.34.54:210][224]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.34.54:216][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005766s)
+[2019.12.11-07.34.54:217][224]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.34.54:217][224]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2019.12.11-07.34.54:217][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007471s)
+[2019.12.11-07.34.54:240][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.12.11-07.34.54:242][224]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.34.54:256][224]LogInit: FAudioDevice initialized.
+[2019.12.11-07.34.54:263][224]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.34.54:265][224]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.34.54
+[2019.12.11-07.34.54:266][224]LogWorld: Bringing up level for play took: 0.001739
+[2019.12.11-07.34.54:266][224]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.11-07.34.54:271][224]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.146
+[2019.12.11-07.34.54:271][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.35.09:234][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.35.09:234][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.35.09:234][699]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.35.09:234][699]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-07.35.09:297][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-07.35.09:297][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.35.09:319][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-07.35.09:322][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.11-07.35.09:333][700]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.11-07.35.20:658][797]Candidate modules for hot reload:
+[2019.12.11-07.35.20:658][797]  Pacman2
+[2019.12.11-07.35.20:658][797]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,8774 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.11-07.35.20:665][797]Warning: Starting HotReload took  0.0s.
+[2019.12.11-07.35.44:233][406]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 1:35:44 AM
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.11-07.35.44:234][406]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: Reflection code generated for Pacman2Editor in 15.3145518 seconds
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: License is invalid:
+[2019.12.11-07.35.44:234][406]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.11-07.35.44:234][406]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: 
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: PHud.cpp (0:03.37 at +0:00)
+[2019.12.11-07.35.44:234][406]CompilerResultsLog: UE4Editor-Pacman2-8774.dll (0:01.20 at +0:03)
+[2019.12.11-07.35.44:234][406]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-8774.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-8774.suppressed.exp
+[2019.12.11-07.35.44:235][406]CompilerResultsLog: UE4Editor-Pacman2-8774.lib (0:00.28 at +0:04)
+[2019.12.11-07.35.44:235][406]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-8774.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-8774.exp
+[2019.12.11-07.35.44:235][406]CompilerResultsLog: Pacman2Editor.target (0:00.53 at +0:04)
+[2019.12.11-07.35.44:235][406]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.11-07.35.44:235][406]CompilerResultsLog: 
+[2019.12.11-07.35.44:235][406]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.11-07.35.44:235][406]CompilerResultsLog: 
+[2019.12.11-07.35.44:235][406]CompilerResultsLog: 1 build system warning(s):
+[2019.12.11-07.35.44:235][406]CompilerResultsLog:    - License is invalid
+[2019.12.11-07.35.44:235][406]CompilerResultsLog: 
+[2019.12.11-07.35.44:236][406]CompilerResultsLog: Total time in XGE executor: 5.78 seconds
+[2019.12.11-07.35.44:236][406]CompilerResultsLog: Total execution time: 23.42 seconds
+[2019.12.11-07.35.44:236][406]LogMainFrame: MainFrame: Module compiling took 23.581 seconds
+[2019.12.11-07.35.44:285][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.11-07.35.44:330][406]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0004 seconds. Added 6 classes and 3 folders.
+[2019.12.11-07.35.44:333][406]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-07.35.44:412][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.12.11-07.35.44:429][406]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2870 classes and 685 folders.
+[2019.12.11-07.35.44:429][406]Display: HotReload took 23.8s.
+[2019.12.11-07.35.46:540][463]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-07.35.46:560][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.11-07.35.46:560][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-07.35.46:560][463]PIE: New page: PIE session: NewMap (Dec 12, 2019, 1:35:46 AM)
+[2019.12.11-07.35.46:560][463]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.11-07.35.46:566][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005894s)
+[2019.12.11-07.35.46:568][463]LogAIModule: Creating AISystem for world NewMap
+[2019.12.11-07.35.46:568][463]LogPlayLevel: PIE: World Init took: (0.001705s)
+[2019.12.11-07.35.46:568][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.007778s)
+[2019.12.11-07.35.46:591][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.12.11-07.35.46:593][463]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-07.35.46:606][463]LogInit: FAudioDevice initialized.
+[2019.12.11-07.35.46:614][463]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.11-07.35.46:616][463]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.11-16.35.46
+[2019.12.11-07.35.46:616][463]LogWorld: Bringing up level for play took: 0.001676
+[2019.12.11-07.35.46:617][463]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.11-07.35.46:620][463]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.495
+[2019.12.11-07.35.46:620][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'

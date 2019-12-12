@@ -1,0 +1,769 @@
+﻿Log file open, 12/12/19 15:30:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pacman2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.086416
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=DarthIt0 -epicuserid=09e10e81f244499b944931ec94eda32f -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-06.30.38:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.12-06.30.38:863][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.12-06.30.38:864][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-06.30.38:864][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-06.30.38:867][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-06.30.38:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-06.30.38:868][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-06.30.38:869][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-06.30.38:869][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-06.30.38:869][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.12-06.30.38:874][  0]LogHAL: Display: Platform has ~ 8 GB [8472039424 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.12-06.30.38:874][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.12-06.30.38:874][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-06.30.38:874][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-06.30.38:875][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-06.30.38:876][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.12-06.30.38:877][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.12-06.30.38:877][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.12-06.30.38:877][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-06.30.38:877][  0]LogInit: Computer: DESKTOP-FOR252Q
+[2019.12.12-06.30.38:877][  0]LogInit: User: john
+[2019.12.12-06.30.38:877][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.12-06.30.38:877][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.12-06.30.38:877][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.12-06.30.38:877][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.12-06.30.38:877][  0]LogMemory: Process Physical Memory: 100.25 MB used, 100.25 MB peak
+[2019.12.12-06.30.38:877][  0]LogMemory: Process Virtual Memory: 99.55 MB used, 99.55 MB peak
+[2019.12.12-06.30.38:877][  0]LogMemory: Physical Memory: 5326.05 MB used,  2753.52 MB free, 8079.57 MB total
+[2019.12.12-06.30.38:877][  0]LogMemory: Virtual Memory: 4651.56 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.12.12-06.30.38:881][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.12-06.30.38:912][  0]LogInit: Using OS detected language (en-US).
+[2019.12.12-06.30.38:912][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.12-06.30.38:913][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.12-06.30.39:214][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.12-06.30.39:266][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.12-06.30.39:266][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.12-06.30.39:510][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-06.30.39:510][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.12-06.30.39:602][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.12.12-06.30.39:602][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.12-06.30.39:606][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.12-06.30.39:606][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.12-06.30.39:606][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.12-06.30.39:611][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.12-06.30.39:612][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.12-06.30.39:612][  0]LogWindows: EnumDisplayDevices:
+[2019.12.12-06.30.39:612][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.12.12-06.30.39:612][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.12-06.30.39:613][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.12-06.30.39:613][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.12-06.30.39:613][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.12.12-06.30.39:613][  0]LogD3D11RHI:   Driver Version: 26.20.100.7463 (internal:26.20.100.7463, unified:26.20.100.7463)
+[2019.12.12-06.30.39:613][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2019.12.12-06.30.39:613][  0]LogRHI: Texture pool is 1503 MB (70% of 2147 MB)
+[2019.12.12-06.30.39:703][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.12.12-06.30.39:703][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.12-06.30.39:709][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.12-06.30.40:082][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.12-06.30.40:092][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.12-06.30.40:102][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.12-06.30.40:112][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.12-06.30.40:122][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.12-06.30.40:133][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.12-06.30.40:143][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.12-06.30.40:153][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.12-06.30.40:158][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.12-06.30.40:198][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.12-06.30.40:198][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.12-06.30.40:198][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.12-06.30.40:198][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.12-06.30.40:198][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.12-06.30.40:198][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.12-06.30.40:198][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.12-06.30.40:198][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.12-06.30.40:198][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.12-06.30.40:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.12-06.30.40:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.12-06.30.40:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.12-06.30.40:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.12-06.30.40:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.12-06.30.40:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.12-06.30.40:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.12-06.30.40:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.12-06.30.40:199][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.12-06.30.40:200][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.12-06.30.40:221][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.12-06.30.40:221][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.12-06.30.40:237][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.12-06.30.40:237][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.12-06.30.40:245][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.12-06.30.40:253][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.12-06.30.40:260][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.12-06.30.40:269][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.12-06.30.40:296][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.12-06.30.40:296][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.12-06.30.40:296][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.12-06.30.40:306][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.12-06.30.40:366][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Intermediate/Shaders/WorkingDirectory/2896/).
+[2019.12.12-06.30.40:366][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/john/AppData/Local/Temp/UnrealShaderWorkingDir/7E4B7D4D464EA8127C54AAB4B7363A78/'.
+[2019.12.12-06.30.40:370][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.12.12-06.30.41:044][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.12-06.30.41:096][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-06.30.41:096][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.12-06.30.41:096][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/john/Documents/Unreal Projects/Pacman2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.12-06.30.41:096][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.12-06.30.41:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/john/Documents/Unreal Projects/Pacman2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-06.30.41:097][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.12-06.30.41:109][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.12-06.30.41:109][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-06.30.41:109][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.12-06.30.41:110][  0]LogDerivedDataCache: Using Local data cache path C:/Users/john/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.12-06.30.41:110][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.12-06.30.41:110][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.12-06.30.41:133][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.12-06.30.41:136][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.12-06.30.41:136][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.12-06.30.41:194][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2019.12.12-06.30.41:503][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-06.30.41:662][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.12-06.30.41:662][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.12-06.30.41:662][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.12-06.30.41:662][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.12-06.30.41:662][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.12-06.30.41:673][  0]LogNetVersion: Pacman2 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 199010827)
+[2019.12.12-06.30.42:193][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.056824 seconds
+[2019.12.12-06.30.42:200][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.12-06.30.42:200][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.12-06.30.42:200][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.12-06.30.43:098][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.12-06.30.43:101][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.12-06.30.43:218][  0]SourceControl: Source control is disabled
+[2019.12.12-06.30.43:218][  0]SourceControl: Source control is disabled
+[2019.12.12-06.30.43:220][  0]SourceControl: Source control is disabled
+[2019.12.12-06.30.43:221][  0]SourceControl: Source control is disabled
+[2019.12.12-06.30.43:315][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.12-06.30.43:419][  0]LogOcInput: OculusInput pre-init called
+[2019.12.12-06.30.43:426][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.12-06.30.43:426][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.12-06.30.43:497][  0]LogEngine: Initializing Engine...
+[2019.12.12-06.30.43:498][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-06.30.43:499][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.12-06.30.43:740][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.12-06.30.43:757][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.12-06.30.43:918][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-06.30.43:957][  0]LogInit: FAudioDevice initialized.
+[2019.12.12-06.30.43:958][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.12-06.30.44:097][  0]LogDerivedDataCache: Saved boot cache 0.14s 73MB C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-06.30.44:116][  0]LogInit: Texture streaming: Enabled
+[2019.12.12-06.30.44:148][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.12-06.30.44:148][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.12-06.30.44:149][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.12-06.30.44:243][  0]LogInit: Transaction tracking system initialized
+[2019.12.12-06.30.44:284][  0]BlueprintLog: New page: Editor Load
+[2019.12.12-06.30.44:372][  0]LocalizationService: Localization service is disabled
+[2019.12.12-06.30.44:670][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/' took 0.00s
+[2019.12.12-06.30.44:670][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.12-06.30.44:670][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.12-06.30.44:865][  0]SourceControl: Source control is disabled
+[2019.12.12-06.30.44:865][  0]Cmd: MAP LOAD FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-06.30.44:866][  0]LightingResults: New page: Lighting Build
+[2019.12.12-06.30.44:869][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-06.30.44:869][  0]MapCheck: New page: Map Check
+[2019.12.12-06.30.44:869][  0]LightingResults: New page: Lighting Build
+[2019.12.12-06.30.44:893][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.12.12-06.30.45:049][  0]LogAIModule: Creating AISystem for world NewMap
+[2019.12.12-06.30.45:056][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-06.30.45:091][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.12.12-06.30.45:091][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-06.30.45:092][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2019.12.12-06.30.45:092][  0]LogFileHelpers: Loading map 'NewMap' took 0.227
+[2019.12.12-06.30.45:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-06.30.45:279][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-06.30.45:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-06.30.45:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-06.30.45:308][  0]LogCollectionManager: Loaded 0 collections in 0.002130 seconds
+[2019.12.12-06.30.45:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Collections/' took 0.00s
+[2019.12.12-06.30.45:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/Developers/john/Collections/' took 0.00s
+[2019.12.12-06.30.45:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/Collections/' took 0.00s
+[2019.12.12-06.30.45:323][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.12-06.30.45:334][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2869 classes and 683 folders.
+[2019.12.12-06.30.45:344][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.12-06.30.45:716][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.12-06.30.45:725][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.12.12-06.30.45:765][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.12-06.30.45:767][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.12-06.30.45:784][  0]LogSlate: Took 0.009594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.12-06.30.45:968][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.12-06.30.46:481][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.12-06.30.46:481][  0]LogLoad: (Engine Initialization) Total time: 8.99 seconds
+[2019.12.12-06.30.46:481][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.12-06.30.46:548][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.12-06.30.46:580][  0]LogSlate: Took 0.007567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-06.30.46:599][  1]LogAssetRegistry: Asset discovery search completed in 5.4056 seconds
+[2019.12.12-06.30.46:603][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.12-06.30.46:603][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2019.12.12-06.31.13:191][690]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin34)
+[2019.12.12-06.31.17:203][791]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin34_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.31.19:595][851]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin36)
+[2019.12.12-06.31.48:380][581]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin36_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.31.52:077][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-06.31.54:516][719]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin38)
+[2019.12.12-06.31.55:949][754]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin38_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.32.06:457][ 23]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin38)
+[2019.12.12-06.32.10:139][113]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin38_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.32.26:422][528]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin40_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.32.39:855][873]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin41_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.32.46:352][ 31]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin42_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.32.52:460][190]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin35)
+[2019.12.12-06.32.54:831][249]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin35_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.33.24:774][  5]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin38)
+[2019.12.12-06.33.27:143][ 60]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin38_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.33.30:948][151]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin45_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.33.41:146][406]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin46_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.33.47:051][551]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin47_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.33.50:333][633]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin48_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.33.59:146][853]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin49_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.34.07:016][ 43]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin49)
+[2019.12.12-06.34.18:214][323]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin39)
+[2019.12.12-06.34.21:770][410]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin39_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.34.25:406][502]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin51_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.34.28:972][592]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin52_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.34.34:157][714]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin36)
+[2019.12.12-06.34.37:100][790]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin36_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.34.43:973][965]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin54_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.34.48:704][ 78]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin55_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.35.05:026][487]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin54)
+[2019.12.12-06.35.24:043][967]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin40)
+[2019.12.12-06.35.26:362][ 26]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin40_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.35.30:828][140]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin57_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.35.34:342][224]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin58_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.35.38:696][327]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin41)
+[2019.12.12-06.35.40:221][363]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin41_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.35.44:091][460]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin42)
+[2019.12.12-06.35.45:587][497]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin42_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.35.50:236][610]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin60)
+[2019.12.12-06.35.53:405][685]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin60_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.35.59:199][833]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin62_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.36.06:132][  4]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin61)
+[2019.12.12-06.36.07:492][ 35]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin61_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.36.10:778][114]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin43)
+[2019.12.12-06.36.12:915][167]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin43_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.36.18:948][318]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin65_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.36.23:554][429]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin66_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.36.41:527][874]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin34)
+[2019.12.12-06.36.47:639][ 29]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin34_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.36.52:493][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-06.37.05:973][457]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin37)
+[2019.12.12-06.37.26:419][949]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin34)
+[2019.12.12-06.37.39:398][270]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin35)
+[2019.12.12-06.37.46:748][451]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={1C323784-4B4F-0ACC-584C-84A27B1383AE}
+[2019.12.12-06.38.30:486][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.12-06.38.32:461][572]LogEditorViewport: Clicking on Actor (LMB): Foe (Foe5)
+[2019.12.12-06.38.58:202][203]LogEditorViewport: Clicking on Actor (LMB): Foe (Foe5)
+[2019.12.12-06.40.08:460][877]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin44)
+[2019.12.12-06.40.11:286][945]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin44_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.40.29:211][372]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin38)
+[2019.12.12-06.40.32:346][446]Cmd: DELETE
+[2019.12.12-06.40.32:346][446]Cmd: ACTOR DELETE
+[2019.12.12-06.40.32:365][446]LogEditorActor: Deleted Actor: Coin
+[2019.12.12-06.40.32:418][446]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2019.12.12-06.40.32:420][446]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2019.12.12-06.40.34:680][502]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin69)
+[2019.12.12-06.40.46:792][793]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={640E65EF-4B4D-5736-499E-B5AF14F69E94}
+[2019.12.12-06.41.01:632][158]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin34)
+[2019.12.12-06.41.04:857][232]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin68)
+[2019.12.12-06.41.09:394][338]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin68_33 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.41.37:648][ 19]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin44)
+[2019.12.12-06.41.52:321][371]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin65)
+[2019.12.12-06.41.55:488][443]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin66)
+[2019.12.12-06.42.01:425][591]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin67)
+[2019.12.12-06.42.21:505][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-06.42.21:618][ 73]LogSlate: Took 0.007084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-06.42.21:643][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-06.42.21:667][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.12.12-06.42.22:020][ 73]LogSavePackage: Moving '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Saved/NewMapC8F9FE35400F6417BCFE2089F9E8287B.tmp' to '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap'
+[2019.12.12-06.42.22:088][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.12-06.42.22:347][ 73]LogSavePackage: Moving '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Saved/NewMap_BuiltData732457724188736763217BA8104D57AC.tmp' to '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap_BuiltData.uasset'
+[2019.12.12-06.42.24:149][117]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.12.12-06.42.24:157][117]Candidate modules for hot reload:
+[2019.12.12-06.42.24:157][117]  Pacman2
+[2019.12.12-06.42.24:157][117]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,6744 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.12-06.42.24:167][117]Warning: Starting HotReload took  0.0s.
+[2019.12.12-06.43.48:412][  2]CompilerResultsLog: New page: Compilation - Dec 13, 2019, 12:43:48 AM
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: Reflection code generated for Pacman2Editor in 69.3262353 seconds
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: Distributing 3 actions to XGE
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: License is invalid:
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: 
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: UE4Editor-Pacman2-6744.dll (0:03.23 at +0:00)
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6744.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6744.suppressed.exp
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: UE4Editor-Pacman2-6744.lib (0:00.75 at +0:03)
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6744.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-6744.exp
+[2019.12.12-06.43.48:413][  2]CompilerResultsLog: Pacman2Editor.target (0:01.68 at +0:04)
+[2019.12.12-06.43.48:414][  2]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.12-06.43.48:414][  2]CompilerResultsLog: 
+[2019.12.12-06.43.48:414][  2]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.12-06.43.48:414][  2]CompilerResultsLog: 
+[2019.12.12-06.43.48:414][  2]CompilerResultsLog: 1 build system warning(s):
+[2019.12.12-06.43.48:414][  2]CompilerResultsLog:    - License is invalid
+[2019.12.12-06.43.48:414][  2]CompilerResultsLog: 
+[2019.12.12-06.43.48:414][  2]CompilerResultsLog: Total time in XGE executor: 6.25 seconds
+[2019.12.12-06.43.48:414][  2]CompilerResultsLog: Total execution time: 84.01 seconds
+[2019.12.12-06.43.48:414][  2]LogMainFrame: MainFrame: Module compiling took 84.265 seconds
+[2019.12.12-06.43.48:463][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.12.12-06.43.48:510][  2]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0011 seconds. Added 6 classes and 3 folders.
+[2019.12.12-06.43.48:513][  2]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.12-06.43.48:598][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.12.12-06.43.48:617][  2]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2870 classes and 685 folders.
+[2019.12.12-06.43.48:617][  2]Display: HotReload took 84.5s.
+[2019.12.12-06.43.53:801][130]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-06.43.53:823][130]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-06.43.53:823][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-06.43.53:823][130]PIE: New page: PIE session: NewMap (Dec 13, 2019, 12:43:53 AM)
+[2019.12.12-06.43.53:826][130]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.12-06.43.53:828][130]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.12-06.43.53:845][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016477s)
+[2019.12.12-06.43.53:846][130]LogAIModule: Creating AISystem for world NewMap
+[2019.12.12-06.43.53:847][130]LogPlayLevel: PIE: World Init took: (0.001744s)
+[2019.12.12-06.43.53:847][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.018845s)
+[2019.12.12-06.43.53:871][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.12.12-06.43.53:875][130]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-06.43.53:889][130]LogInit: FAudioDevice initialized.
+[2019.12.12-06.43.53:906][130]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.12-06.43.53:911][130]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.12-15.43.53
+[2019.12.12-06.43.53:913][130]LogWorld: Bringing up level for play took: 0.004946
+[2019.12.12-06.43.53:913][130]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.12-06.43.53:948][130]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.12-06.43.53:951][130]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.822
+[2019.12.12-06.43.53:951][130]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-06.44.15:269][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-06.44.15:270][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-06.44.15:270][807]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.12-06.44.15:270][807]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-06.44.15:307][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-06.44.15:307][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-06.44.15:338][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-06.44.15:342][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.12.12-06.44.15:375][809]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.12-06.44.18:926][896]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin66)
+[2019.12.12-06.44.24:303][ 28]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin67)
+[2019.12.12-06.44.35:505][297]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin48)
+[2019.12.12-06.44.38:155][362]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin48_34 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.44.54:159][754]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin70)
+[2019.12.12-06.45.09:416][126]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin43)
+[2019.12.12-06.45.12:679][208]Cmd: DELETE
+[2019.12.12-06.45.12:679][208]Cmd: ACTOR DELETE
+[2019.12.12-06.45.12:688][208]LogEditorActor: Deleted Actor: Coin
+[2019.12.12-06.45.12:730][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.12-06.45.12:730][208]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.12.12-06.45.16:927][317]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin34)
+[2019.12.12-06.45.23:995][484]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin44)
+[2019.12.12-06.45.33:347][718]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin47)
+[2019.12.12-06.45.35:732][773]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin47_35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.12-06.46.01:869][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-06.46.02:005][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap" FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.12-06.46.02:034][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.12-06.46.02:210][414]LogSavePackage: Moving '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Saved/NewMap4582BFD84E85D045E3D8C2880242F054.tmp' to '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap'
+[2019.12.12-06.46.02:251][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewMap_BuiltData" FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.12-06.46.02:421][414]LogSavePackage: Moving '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Saved/NewMap_BuiltData1F89E0F14F3DDD47589928B4A611C15B.tmp' to '../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap_BuiltData.uasset'
+[2019.12.12-06.46.10:472][608]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.12.12-06.46.10:476][608]Candidate modules for hot reload:
+[2019.12.12-06.46.10:476][608]  Pacman2
+[2019.12.12-06.46.10:476][608]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,5472 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.12-06.46.10:483][608]Warning: Starting HotReload took  0.0s.
+[2019.12.12-06.46.37:989][262]CompilerResultsLog: New page: Compilation - Dec 13, 2019, 12:46:37 AM
+[2019.12.12-06.46.37:990][262]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.12-06.46.37:990][262]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-06.46.37:990][262]CompilerResultsLog: Reflection code generated for Pacman2Editor in 20.6620646 seconds
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: Distributing 3 actions to XGE
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: License is invalid:
+[2019.12.12-06.46.37:991][262]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.12-06.46.37:991][262]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: 
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: UE4Editor-Pacman2-5472.dll (0:02.48 at +0:00)
+[2019.12.12-06.46.37:991][262]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-5472.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-5472.suppressed.exp
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: UE4Editor-Pacman2-5472.lib (0:00.67 at +0:02)
+[2019.12.12-06.46.37:991][262]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-5472.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-5472.exp
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: Pacman2Editor.target (0:00.67 at +0:03)
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: 
+[2019.12.12-06.46.37:991][262]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: 
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: 1 build system warning(s):
+[2019.12.12-06.46.37:991][262]CompilerResultsLog:    - License is invalid
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: 
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: Total time in XGE executor: 4.23 seconds
+[2019.12.12-06.46.37:991][262]CompilerResultsLog: Total execution time: 27.35 seconds
+[2019.12.12-06.46.37:992][262]LogMainFrame: MainFrame: Module compiling took 27.519 seconds
+[2019.12.12-06.46.38:060][262]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.12.12-06.46.38:112][262]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0005 seconds. Added 6 classes and 3 folders.
+[2019.12.12-06.46.38:115][262]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.12-06.46.38:219][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.12.12-06.46.38:241][262]LogContentBrowser: Native class hierarchy populated in 0.0135 seconds. Added 2870 classes and 685 folders.
+[2019.12.12-06.46.38:241][262]Display: HotReload took 27.8s.
+[2019.12.12-06.46.39:617][296]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-06.46.39:646][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-06.46.39:646][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-06.46.39:646][296]PIE: New page: PIE session: NewMap (Dec 13, 2019, 12:46:39 AM)
+[2019.12.12-06.46.39:646][296]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.12-06.46.39:662][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015865s)
+[2019.12.12-06.46.39:663][296]LogAIModule: Creating AISystem for world NewMap
+[2019.12.12-06.46.39:664][296]LogPlayLevel: PIE: World Init took: (0.001745s)
+[2019.12.12-06.46.39:664][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.017829s)
+[2019.12.12-06.46.39:686][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.12.12-06.46.39:690][296]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-06.46.39:712][296]LogInit: FAudioDevice initialized.
+[2019.12.12-06.46.39:726][296]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.12-06.46.39:732][296]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.12-15.46.39
+[2019.12.12-06.46.39:734][296]LogWorld: Bringing up level for play took: 0.007487
+[2019.12.12-06.46.39:734][296]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.12-06.46.39:738][296]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.61
+[2019.12.12-06.46.39:738][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'

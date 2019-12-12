@@ -1,0 +1,1138 @@
+﻿Log file open, 12/12/19 11:11:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pacman2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.089085
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=DarthIt0 -epicuserid=09e10e81f244499b944931ec94eda32f -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.12-02.11.15:448][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.12-02.11.15:448][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-02.11.15:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.12-02.11.15:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-02.11.15:449][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-02.11.15:452][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-02.11.15:452][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-02.11.15:453][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-02.11.15:453][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-02.11.15:453][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.12-02.11.15:463][  0]LogHAL: Display: Platform has ~ 8 GB [8472039424 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.12-02.11.15:463][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.12-02.11.15:463][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:463][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-02.11.15:463][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-02.11.15:463][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:463][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-02.11.15:463][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-02.11.15:464][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-02.11.15:465][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.12-02.11.15:465][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.12-02.11.15:465][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.12-02.11.15:465][  0]LogInit: Computer: DESKTOP-FOR252Q
+[2019.12.12-02.11.15:465][  0]LogInit: User: john
+[2019.12.12-02.11.15:465][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.12-02.11.15:465][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.12-02.11.15:465][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.12-02.11.15:465][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.12-02.11.15:465][  0]LogMemory: Process Physical Memory: 100.10 MB used, 100.10 MB peak
+[2019.12.12-02.11.15:465][  0]LogMemory: Process Virtual Memory: 99.34 MB used, 99.34 MB peak
+[2019.12.12-02.11.15:465][  0]LogMemory: Physical Memory: 5554.11 MB used,  2525.45 MB free, 8079.57 MB total
+[2019.12.12-02.11.15:465][  0]LogMemory: Virtual Memory: 4651.56 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.12.12-02.11.15:468][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.12-02.11.15:509][  0]LogInit: Using OS detected language (en-US).
+[2019.12.12-02.11.15:509][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.12-02.11.15:512][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.12-02.11.15:836][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.12-02.11.15:880][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.12-02.11.15:880][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.12-02.11.18:544][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-02.11.18:544][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.12-02.11.18:641][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.12.12-02.11.18:641][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.12-02.11.18:650][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.12-02.11.18:650][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.12-02.11.18:650][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.12-02.11.18:656][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.12-02.11.18:656][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.12-02.11.18:656][  0]LogWindows: EnumDisplayDevices:
+[2019.12.12-02.11.18:656][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.12.12-02.11.18:657][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.12-02.11.18:657][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.12-02.11.18:657][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.12-02.11.18:657][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.12.12-02.11.18:657][  0]LogD3D11RHI:   Driver Version: 26.20.100.7463 (internal:26.20.100.7463, unified:26.20.100.7463)
+[2019.12.12-02.11.18:657][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2019.12.12-02.11.18:657][  0]LogRHI: Texture pool is 1503 MB (70% of 2147 MB)
+[2019.12.12-02.11.18:839][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.12.12-02.11.18:839][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.12-02.11.18:850][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.12-02.11.19:242][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.12-02.11.19:252][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.12-02.11.19:262][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.12-02.11.19:272][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.12-02.11.19:292][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.12-02.11.19:303][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.12-02.11.19:314][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.12-02.11.19:324][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.12-02.11.19:329][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.12-02.11.19:379][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.12-02.11.19:379][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.12-02.11.19:379][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.12-02.11.19:379][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.12-02.11.19:379][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.12-02.11.19:379][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.12-02.11.19:380][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.12-02.11.19:382][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.12-02.11.19:413][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.12-02.11.19:413][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.12-02.11.19:429][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.12-02.11.19:429][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.12-02.11.19:438][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.12-02.11.19:447][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.12-02.11.19:455][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.12-02.11.19:476][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.12-02.11.19:510][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.12-02.11.19:510][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.12-02.11.19:510][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.12-02.11.19:523][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.12-02.11.19:598][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Intermediate/Shaders/WorkingDirectory/3784/).
+[2019.12.12-02.11.19:598][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/john/AppData/Local/Temp/UnrealShaderWorkingDir/D482409F44F5E6E544C5309E6711F418/'.
+[2019.12.12-02.11.19:601][  0]LogXGEController: Cleaning working directory: C:/Users/john/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.12-02.11.19:601][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.12.12-02.11.22:434][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.12-02.11.22:654][  0]LogDerivedDataCache: Loaded boot cache 0.22s 73MB C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-02.11.22:654][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.12-02.11.22:654][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/john/Documents/Unreal Projects/Pacman2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.12-02.11.22:655][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.12-02.11.22:655][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/john/Documents/Unreal Projects/Pacman2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-02.11.22:655][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.12-02.11.22:672][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.12-02.11.22:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-02.11.22:672][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.12-02.11.22:673][  0]LogDerivedDataCache: Using Local data cache path C:/Users/john/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.12-02.11.22:673][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.12-02.11.22:673][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.12-02.11.22:697][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.12-02.11.22:700][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.12-02.11.22:701][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.12-02.11.22:822][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2019.12.12-02.11.23:162][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-02.11.23:354][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.12-02.11.23:354][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.12-02.11.23:354][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.12-02.11.23:354][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.12-02.11.23:354][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.12-02.11.23:367][  0]LogNetVersion: Pacman2 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 199010827)
+[2019.12.12-02.11.23:940][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.073177 seconds
+[2019.12.12-02.11.23:948][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.12-02.11.23:948][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.12-02.11.23:948][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.12-02.11.28:081][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.12-02.11.28:086][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.12-02.11.28:221][  0]SourceControl: Source control is disabled
+[2019.12.12-02.11.28:221][  0]SourceControl: Source control is disabled
+[2019.12.12-02.11.28:226][  0]SourceControl: Source control is disabled
+[2019.12.12-02.11.28:228][  0]SourceControl: Source control is disabled
+[2019.12.12-02.11.28:381][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.12-02.11.28:507][  0]LogOcInput: OculusInput pre-init called
+[2019.12.12-02.11.28:516][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.12-02.11.28:516][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.12-02.11.28:606][  0]LogEngine: Initializing Engine...
+[2019.12.12-02.11.28:607][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-02.11.28:609][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.12.12-02.11.28:861][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.12-02.11.28:879][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.12-02.11.29:064][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-02.11.29:105][  0]LogInit: FAudioDevice initialized.
+[2019.12.12-02.11.29:107][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.12-02.11.29:186][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-02.11.29:195][  0]LogInit: Texture streaming: Enabled
+[2019.12.12-02.11.29:221][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.12-02.11.29:221][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={1BF928D7-47D0-CFBF-BC9E-01A78CD9C2C2}
+[2019.12.12-02.11.29:221][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.12-02.11.29:224][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.12-02.11.29:301][  0]LogInit: Transaction tracking system initialized
+[2019.12.12-02.11.29:352][  0]BlueprintLog: New page: Editor Load
+[2019.12.12-02.11.29:463][  0]LocalizationService: Localization service is disabled
+[2019.12.12-02.11.29:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/' took 0.01s
+[2019.12.12-02.11.29:817][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.12-02.11.29:817][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.12-02.11.30:172][  0]SourceControl: Source control is disabled
+[2019.12.12-02.11.30:173][  0]Cmd: MAP LOAD FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-02.11.30:173][  0]LightingResults: New page: Lighting Build
+[2019.12.12-02.11.30:178][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-02.11.30:179][  0]MapCheck: New page: Map Check
+[2019.12.12-02.11.30:179][  0]LightingResults: New page: Lighting Build
+[2019.12.12-02.11.30:199][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.12.12-02.11.30:347][  0]LogAIModule: Creating AISystem for world NewMap
+[2019.12.12-02.11.30:356][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-02.11.30:403][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.12.12-02.11.30:403][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-02.11.30:403][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2019.12.12-02.11.30:403][  0]LogFileHelpers: Loading map 'NewMap' took 0.231
+[2019.12.12-02.11.30:575][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-02.11.30:582][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-02.11.30:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-02.11.30:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-02.11.30:611][  0]LogCollectionManager: Loaded 0 collections in 0.002151 seconds
+[2019.12.12-02.11.30:620][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Collections/' took 0.00s
+[2019.12.12-02.11.30:620][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/Developers/john/Collections/' took 0.00s
+[2019.12.12-02.11.30:621][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/Collections/' took 0.00s
+[2019.12.12-02.11.30:621][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.12-02.11.30:631][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2869 classes and 683 folders.
+[2019.12.12-02.11.30:640][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.12-02.11.31:088][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.12-02.11.31:097][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.12-02.11.31:128][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.12-02.11.31:131][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.12-02.11.31:149][  0]LogSlate: Took 0.008909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.12-02.11.31:352][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.12-02.11.31:948][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.12-02.11.31:948][  0]LogLoad: (Engine Initialization) Total time: 17.79 seconds
+[2019.12.12-02.11.31:948][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.12-02.11.32:015][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.12-02.11.32:038][  0]LogSlate: Took 0.007833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-02.11.33:377][ 19]LogAssetRegistry: Asset discovery search completed in 10.5575 seconds
+[2019.12.12-02.11.33:381][ 19]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.12.12-02.11.33:381][ 19]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2019.12.12-02.12.57:139][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-02.12.57:277][322]Candidate modules for hot reload:
+[2019.12.12-02.12.57:277][322]  Pacman2
+[2019.12.12-02.12.57:277][322]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,1917 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.12-02.12.57:280][322]Warning: Starting HotReload took  0.0s.
+[2019.12.12-02.14.08:147][ 40]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 8:14:08 PM
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: Reflection code generated for Pacman2Editor in 19.1775299 seconds
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: License is invalid:
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: 
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: AIFoe.cpp (0:47.92 at +0:00)
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Public\AIFoe.h(28): warning C4996: 'AAIController::OnMoveCompleted': This function is now deprecated, please use version with EPathFollowingResultDetails parameter. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AIController.h(223): note: see declaration of 'AAIController::OnMoveCompleted'
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(195) : error C4273: 'UGameplayStatics::UGameplayStatics': inconsistent dll linkage
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(49): note: see previous definition of '{ctor}'
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(200) : error C4273: 'UGameplayStatics::GetGameInstance': inconsistent dll linkage
+[2019.12.12-02.14.08:153][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(133): note: see previous definition of 'GetGameInstance'
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(206) : error C4273: 'UGameplayStatics::GetPlayerController': inconsistent dll linkage
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(137): note: see previous definition of 'GetPlayerController'
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(224) : error C4273: 'UGameplayStatics::GetPlayerControllerFromID': inconsistent dll linkage
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(141): note: see previous definition of 'GetPlayerControllerFromID'
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(241) : error C4273: 'UGameplayStatics::GetPlayerCharacter': inconsistent dll linkage
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(149): note: see previous definition of 'GetPlayerCharacter'
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(247) : error C4273: 'UGameplayStatics::GetPlayerPawn': inconsistent dll linkage
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(145): note: see previous definition of 'GetPlayerPawn'
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(253) : error C4273: 'UGameplayStatics::GetPlayerCameraManager': inconsistent dll linkage
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(153): note: see previous definition of 'GetPlayerCameraManager'
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(259) : error C4273: 'UGameplayStatics::CreatePlayer': inconsistent dll linkage
+[2019.12.12-02.14.08:154][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(161): note: see previous definition of 'CreatePlayer'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(274) : error C4273: 'UGameplayStatics::RemovePlayer': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(168): note: see previous definition of 'RemovePlayer'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(292) : error C4273: 'UGameplayStatics::GetPlayerControllerID': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(176): note: see previous definition of 'GetPlayerControllerID'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(305) : error C4273: 'UGameplayStatics::SetPlayerControllerID': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(184): note: see previous definition of 'SetPlayerControllerID'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(316) : error C4273: 'UGameplayStatics::GetGameMode': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(231): note: see previous definition of 'GetGameMode'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(322) : error C4273: 'UGameplayStatics::GetGameState': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(235): note: see previous definition of 'GetGameState'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(328) : error C4273: 'UGameplayStatics::GetObjectClass': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(239): note: see previous definition of 'GetObjectClass'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(333) : error C4273: 'UGameplayStatics::GetGlobalTimeDilation': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(246): note: see previous definition of 'GetGlobalTimeDilation'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(339) : error C4273: 'UGameplayStatics::SetGlobalTimeDilation': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(253): note: see previous definition of 'SetGlobalTimeDilation'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(356) : error C4273: 'UGameplayStatics::SetGamePaused': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(261): note: see previous definition of 'SetGamePaused'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(363) : error C4273: 'UGameplayStatics::IsGamePaused': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(268): note: see previous definition of 'IsGamePaused'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(369) : error C4273: 'UGameplayStatics::SetEnableWorldRendering': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(275): note: see previous definition of 'SetEnableWorldRendering'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(382) : error C4273: 'UGameplayStatics::GetEnableWorldRendering': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(282): note: see previous definition of 'GetEnableWorldRendering'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(397) : error C4273: 'UGameplayStatics::GetViewportMouseCaptureMode': inconsistent dll linkage
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(288): note: see previous definition of 'GetViewportMouseCaptureMode'
+[2019.12.12-02.14.08:155][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(412) : error C4273: 'UGameplayStatics::SetViewportMouseCaptureMode': inconsistent dll linkage
+[2019.12.12-02.14.08:156][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(294): note: see previous definition of 'SetViewportMouseCaptureMode'
+[2019.12.12-02.14.08:156][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(469) : error C4273: 'UGameplayStatics::ApplyRadialDamage': inconsistent dll linkage
+[2019.12.12-02.14.08:156][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(308): note: see previous definition of 'ApplyRadialDamage'
+[2019.12.12-02.14.08:156][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(475) : error C4273: 'UGameplayStatics::ApplyRadialDamageWithFalloff': inconsistent dll linkage
+[2019.12.12-02.14.08:156][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(324): note: see previous definition of 'ApplyRadialDamageWithFalloff'
+[2019.12.12-02.14.08:156][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(537) : error C4273: 'UGameplayStatics::ApplyPointDamage': inconsistent dll linkage
+[2019.12.12-02.14.08:156][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(338): note: see previous definition of 'ApplyPointDamage'
+[2019.12.12-02.14.08:156][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(551) : error C4273: 'UGameplayStatics::ApplyDamage': inconsistent dll linkage
+[2019.12.12-02.14.08:156][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(349): note: see previous definition of 'ApplyDamage'
+[2019.12.12-02.14.08:157][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(565) : error C4273: 'UGameplayStatics::SpawnObject': inconsistent dll linkage
+[2019.12.12-02.14.08:157][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(53): note: see previous definition of 'SpawnObject'
+[2019.12.12-02.14.08:157][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(588) : error C4273: 'UGameplayStatics::BeginSpawningActorFromBlueprint': inconsistent dll linkage
+[2019.12.12-02.14.08:157][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(59): note: see previous definition of 'BeginSpawningActorFromBlueprint'
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(606) : error C4273: 'UGameplayStatics::BeginSpawningActorFromClass': inconsistent dll linkage
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(63): note: see previous definition of 'BeginSpawningActorFromClass'
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(612) : error C4273: 'UGameplayStatics::BeginDeferredActorSpawnFromClass': inconsistent dll linkage
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(67): note: see previous definition of 'BeginDeferredActorSpawnFromClass'
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(647) : error C4273: 'UGameplayStatics::FinishSpawningActor': inconsistent dll linkage
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(71): note: see previous definition of 'FinishSpawningActor'
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(658) : error C4273: 'UGameplayStatics::LoadStreamLevel': inconsistent dll linkage
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(190): note: see previous definition of 'LoadStreamLevel'
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(671) : error C4273: 'UGameplayStatics::UnloadStreamLevel': inconsistent dll linkage
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(194): note: see previous definition of 'UnloadStreamLevel'
+[2019.12.12-02.14.08:158][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(684) : error C4273: 'UGameplayStatics::GetStreamingLevel': inconsistent dll linkage
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(198): note: see previous definition of 'GetStreamingLevel'
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(712) : error C4273: 'UGameplayStatics::FlushLevelStreaming': inconsistent dll linkage
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(202): note: see previous definition of 'FlushLevelStreaming'
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(720) : error C4273: 'UGameplayStatics::CancelAsyncLoading': inconsistent dll linkage
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(206): note: see previous definition of 'CancelAsyncLoading'
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(725) : error C4273: 'UGameplayStatics::OpenLevel': inconsistent dll linkage
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(217): note: see previous definition of 'OpenLevel'
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(753) : error C4273: 'UGameplayStatics::GetCurrentLevelName': inconsistent dll linkage
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(225): note: see previous definition of 'GetCurrentLevelName'
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(767) : error C4273: 'UGameplayStatics::GetActorArrayAverageLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:159][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(77): note: see previous definition of 'GetActorArrayAverageLocation'
+[2019.12.12-02.14.08:160][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(792) : error C4273: 'UGameplayStatics::GetActorArrayBounds': inconsistent dll linkage
+[2019.12.12-02.14.08:160][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(81): note: see previous definition of 'GetActorArrayBounds'
+[2019.12.12-02.14.08:160][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(815) : error C4273: 'UGameplayStatics::GetActorOfClass': inconsistent dll linkage
+[2019.12.12-02.14.08:160][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(90): note: see previous definition of 'GetActorOfClass'
+[2019.12.12-02.14.08:160][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(835) : error C4273: 'UGameplayStatics::GetAllActorsOfClass': inconsistent dll linkage
+[2019.12.12-02.14.08:160][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(99): note: see previous definition of 'GetAllActorsOfClass'
+[2019.12.12-02.14.08:161][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(854) : error C4273: 'UGameplayStatics::GetAllActorsWithInterface': inconsistent dll linkage
+[2019.12.12-02.14.08:161][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(108): note: see previous definition of 'GetAllActorsWithInterface'
+[2019.12.12-02.14.08:161][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(876) : error C4273: 'UGameplayStatics::GetAllActorsWithTag': inconsistent dll linkage
+[2019.12.12-02.14.08:161][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(117): note: see previous definition of 'GetAllActorsWithTag'
+[2019.12.12-02.14.08:161][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(899) : error C4273: 'UGameplayStatics::GetAllActorsOfClassWithTag': inconsistent dll linkage
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(127): note: see previous definition of 'GetAllActorsOfClassWithTag'
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(920) : error C4273: 'UGameplayStatics::PlayWorldCameraShake': inconsistent dll linkage
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(363): note: see previous definition of 'PlayWorldCameraShake'
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(953) : error C4273: 'UGameplayStatics::SpawnEmitterAtLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(380): note: see previous definition of 'SpawnEmitterAtLocation'
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(958) : error C4273: 'UGameplayStatics::InternalSpawnEmitterAtLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(392): note: see previous definition of 'InternalSpawnEmitterAtLocation'
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(992) : error C4273: 'UGameplayStatics::SpawnEmitterAtLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(377): note: see previous definition of 'SpawnEmitterAtLocation'
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1005) : error C4273: 'UGameplayStatics::SpawnEmitterAtLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(389): note: see previous definition of 'SpawnEmitterAtLocation'
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1015) : error C4273: 'UGameplayStatics::SpawnEmitterAttached': inconsistent dll linkage
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(411): note: see previous definition of 'SpawnEmitterAttached'
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1020) : error C4273: 'UGameplayStatics::SpawnEmitterAttached': inconsistent dll linkage
+[2019.12.12-02.14.08:162][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(408): note: see previous definition of 'SpawnEmitterAttached'
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1090) : error C4273: 'UGameplayStatics::BreakHitResult': inconsistent dll linkage
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(807): note: see previous definition of 'BreakHitResult'
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1111) : error C4273: 'UGameplayStatics::MakeHitResult': inconsistent dll linkage
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(828): note: see previous definition of 'MakeHitResult'
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1134) : error C4273: 'UGameplayStatics::GetSurfaceType': inconsistent dll linkage
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(835): note: see previous definition of 'GetSurfaceType'
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1140) : error C4273: 'UGameplayStatics::FindCollisionUV': inconsistent dll linkage
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(841): note: see previous definition of 'FindCollisionUV'
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1166) : error C4273: 'UGameplayStatics::AreAnyListenersWithinRange': inconsistent dll linkage
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(422): note: see previous definition of 'AreAnyListenersWithinRange'
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1188) : error C4273: 'UGameplayStatics::SetGlobalPitchModulation': inconsistent dll linkage
+[2019.12.12-02.14.08:163][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(434): note: see previous definition of 'SetGlobalPitchModulation'
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1207) : error C4273: 'UGameplayStatics::SetGlobalListenerFocusParameters': inconsistent dll linkage
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(451): note: see previous definition of 'SetGlobalListenerFocusParameters'
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1236) : error C4273: 'UGameplayStatics::PlaySound2D': inconsistent dll linkage
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(467): note: see previous definition of 'PlaySound2D'
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1277) : error C4273: 'UGameplayStatics::CreateSound2D': inconsistent dll linkage
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(499): note: see previous definition of 'CreateSound2D'
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1313) : error C4273: 'UGameplayStatics::SpawnSound2D': inconsistent dll linkage
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(483): note: see previous definition of 'SpawnSound2D'
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1323) : error C4273: 'UGameplayStatics::PlaySoundAtLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(514): note: see previous definition of 'PlaySoundAtLocation'
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1342) : error C4273: 'UGameplayStatics::SpawnSoundAtLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(535): note: see previous definition of 'SpawnSoundAtLocation'
+[2019.12.12-02.14.08:164][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1383) : error C4273: 'UGameplayStatics::SpawnSoundAttached': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(554): note: see previous definition of 'SpawnSoundAttached'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1469) : error C4273: 'UGameplayStatics::PlayDialogue2D': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(573): note: see previous definition of 'PlayDialogue2D'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1477) : error C4273: 'UGameplayStatics::SpawnDialogue2D': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(588): note: see previous definition of 'SpawnDialogue2D'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1486) : error C4273: 'UGameplayStatics::PlayDialogueAtLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(601): note: see previous definition of 'PlayDialogueAtLocation'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1494) : error C4273: 'UGameplayStatics::SpawnDialogueAtLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(621): note: see previous definition of 'SpawnDialogueAtLocation'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1503) : error C4273: 'UGameplayStatics::SpawnDialogueAttached': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(640): note: see previous definition of 'SpawnDialogueAttached'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1512) : error C4273: 'UGameplayStatics::SetSubtitlesEnabled': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(682): note: see previous definition of 'SetSubtitlesEnabled'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1520) : error C4273: 'UGameplayStatics::AreSubtitlesEnabled': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(689): note: see previous definition of 'AreSubtitlesEnabled'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1529) : error C4273: 'UGameplayStatics::SetBaseSoundMix': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(694): note: see previous definition of 'SetBaseSoundMix'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1548) : error C4273: 'UGameplayStatics::PushSoundMixModifier': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(717): note: see previous definition of 'PushSoundMixModifier'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1567) : error C4273: 'UGameplayStatics::SetSoundMixClassOverride': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(705): note: see previous definition of 'SetSoundMixClassOverride'
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1586) : error C4273: 'UGameplayStatics::ClearSoundMixClassOverride': inconsistent dll linkage
+[2019.12.12-02.14.08:165][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(713): note: see previous definition of 'ClearSoundMixClassOverride'
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1605) : error C4273: 'UGameplayStatics::PopSoundMixModifier': inconsistent dll linkage
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(721): note: see previous definition of 'PopSoundMixModifier'
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1624) : error C4273: 'UGameplayStatics::ClearSoundMixModifiers': inconsistent dll linkage
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(725): note: see previous definition of 'ClearSoundMixModifiers'
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1643) : error C4273: 'UGameplayStatics::ActivateReverbEffect': inconsistent dll linkage
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(735): note: see previous definition of 'ActivateReverbEffect'
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1662) : error C4273: 'UGameplayStatics::DeactivateReverbEffect': inconsistent dll linkage
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(743): note: see previous definition of 'DeactivateReverbEffect'
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1681) : error C4273: 'UGameplayStatics::GetCurrentReverbEffect': inconsistent dll linkage
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(749): note: see previous definition of 'GetCurrentReverbEffect'
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1701) : error C4273: 'UGameplayStatics::SetMaxAudioChannelsScaled': inconsistent dll linkage
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(755): note: see previous definition of 'SetMaxAudioChannelsScaled'
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1720) : error C4273: 'UGameplayStatics::GetMaxAudioChannelCount': inconsistent dll linkage
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(761): note: see previous definition of 'GetMaxAudioChannelCount'
+[2019.12.12-02.14.08:166][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1760) : error C4273: 'UGameplayStatics::SpawnDecalAtLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(774): note: see previous definition of 'SpawnDecalAtLocation'
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1774) : error C4273: 'UGameplayStatics::SpawnDecalAttached': inconsistent dll linkage
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(787): note: see previous definition of 'SpawnDecalAttached'
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1826) : error C4273: 'UGameplayStatics::SpawnForceFeedbackAtLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(658): note: see previous definition of 'SpawnForceFeedbackAtLocation'
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1841) : error C4273: 'UGameplayStatics::SpawnForceFeedbackAttached': inconsistent dll linkage
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(675): note: see previous definition of 'SpawnForceFeedbackAttached'
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1864) : error C4273: 'UGameplayStatics::CreateSaveGameObject': inconsistent dll linkage
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(851): note: see previous definition of 'CreateSaveGameObject'
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1874) : error C4273: 'UGameplayStatics::SaveGameToMemory': inconsistent dll linkage
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(861): note: see previous definition of 'SaveGameToMemory'
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1888) : error C4273: 'UGameplayStatics::SaveDataToSlot': inconsistent dll linkage
+[2019.12.12-02.14.08:167][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(870): note: see previous definition of 'SaveDataToSlot'
+[2019.12.12-02.14.08:168][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1901) : error C4273: 'UGameplayStatics::AsyncSaveGameToSlot': inconsistent dll linkage
+[2019.12.12-02.14.08:168][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(882): note: see previous definition of 'AsyncSaveGameToSlot'
+[2019.12.12-02.14.08:168][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1921) : error C4273: 'UGameplayStatics::SaveGameToSlot': inconsistent dll linkage
+[2019.12.12-02.14.08:168][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(894): note: see previous definition of 'SaveGameToSlot'
+[2019.12.12-02.14.08:168][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1932) : error C4273: 'UGameplayStatics::DoesSaveGameExist': inconsistent dll linkage
+[2019.12.12-02.14.08:168][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(902): note: see previous definition of 'DoesSaveGameExist'
+[2019.12.12-02.14.08:168][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1941) : error C4273: 'UGameplayStatics::DeleteGameInSlot': inconsistent dll linkage
+[2019.12.12-02.14.08:168][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(958): note: see previous definition of 'DeleteGameInSlot'
+[2019.12.12-02.14.08:168][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1950) : error C4273: 'UGameplayStatics::LoadGameFromMemory': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(909): note: see previous definition of 'LoadGameFromMemory'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(1984) : error C4273: 'UGameplayStatics::LoadDataFromSlot': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(918): note: see previous definition of 'LoadDataFromSlot'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2001) : error C4273: 'UGameplayStatics::AsyncLoadGameFromSlot': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(929): note: see previous definition of 'AsyncLoadGameFromSlot'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2023) : error C4273: 'UGameplayStatics::LoadGameFromSlot': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(938): note: see previous definition of 'LoadGameFromSlot'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2035) : error C4273: 'UGameplayStatics::StripSaveGameHeader': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(949): note: see previous definition of 'StripSaveGameHeader'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2045) : error C4273: 'UGameplayStatics::GetWorldDeltaSeconds': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(962): note: see previous definition of 'GetWorldDeltaSeconds'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2051) : error C4273: 'UGameplayStatics::GetTimeSeconds': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(966): note: see previous definition of 'GetTimeSeconds'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2057) : error C4273: 'UGameplayStatics::GetUnpausedTimeSeconds': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(970): note: see previous definition of 'GetUnpausedTimeSeconds'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2063) : error C4273: 'UGameplayStatics::GetRealTimeSeconds': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(974): note: see previous definition of 'GetRealTimeSeconds'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2069) : error C4273: 'UGameplayStatics::GetAudioTimeSeconds': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(978): note: see previous definition of 'GetAudioTimeSeconds'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2075) : error C4273: 'UGameplayStatics::GetAccurateRealTime': inconsistent dll linkage
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(982): note: see previous definition of 'GetAccurateRealTime'
+[2019.12.12-02.14.08:169][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2082) : error C4273: 'UGameplayStatics::EnableLiveStreaming': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(991): note: see previous definition of 'EnableLiveStreaming'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2090) : error C4273: 'UGameplayStatics::GetPlatformName': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(997): note: see previous definition of 'GetPlatformName'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2096) : error C4273: 'UGameplayStatics::BlueprintSuggestProjectileVelocity': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1013): note: see previous definition of 'BlueprintSuggestProjectileVelocity'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2104) : error C4273: 'UGameplayStatics::SuggestProjectileVelocity': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1016): note: see previous definition of 'SuggestProjectileVelocity'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2281) : error C4273: 'UGameplayStatics::PredictProjectilePath': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1074): note: see previous definition of 'PredictProjectilePath'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2410) : error C4273: 'UGameplayStatics::PredictProjectilePath': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1080): note: see previous definition of 'PredictProjectilePath'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2431) : error C4273: 'UGameplayStatics::Blueprint_PredictProjectilePath_Advanced': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1091): note: see previous definition of 'Blueprint_PredictProjectilePath_Advanced'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2453) : error C4273: 'UGameplayStatics::Blueprint_PredictProjectilePath_ByObjectType': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1040): note: see previous definition of 'Blueprint_PredictProjectilePath_ByObjectType'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2498) : error C4273: 'UGameplayStatics::Blueprint_PredictProjectilePath_ByTraceChannel': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1064): note: see previous definition of 'Blueprint_PredictProjectilePath_ByTraceChannel'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2526) : error C4273: 'UGameplayStatics::SuggestProjectileVelocity_CustomArc': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1105): note: see previous definition of 'SuggestProjectileVelocity_CustomArc'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2564) : error C4273: 'UGameplayStatics::GetWorldOriginLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1109): note: see previous definition of 'GetWorldOriginLocation'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2570) : error C4273: 'UGameplayStatics::SetWorldOriginLocation': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1113): note: see previous definition of 'SetWorldOriginLocation'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2579) : error C4273: 'UGameplayStatics::RebaseLocalOriginOntoZero': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1117): note: see previous definition of 'RebaseLocalOriginOntoZero'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2584) : error C4273: 'UGameplayStatics::RebaseZeroOriginOntoLocal': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1121): note: see previous definition of 'RebaseZeroOriginOntoLocal'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2589) : error C4273: 'UGameplayStatics::GrassOverlappingSphereCount': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1133): note: see previous definition of 'GrassOverlappingSphereCount'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2619) : error C4273: 'UGameplayStatics::DeprojectScreenToWorld': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1143): note: see previous definition of 'DeprojectScreenToWorld'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2640) : error C4273: 'UGameplayStatics::ProjectWorldToScreen': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1153): note: see previous definition of 'ProjectWorldToScreen'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2666) : error C4273: 'UGameplayStatics::CalculateViewProjectionMatricesFromViewTarget': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1158): note: see previous definition of 'CalculateViewProjectionMatricesFromViewTarget'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2690) : error C4273: 'UGameplayStatics::CalculateViewProjectionMatricesFromMinimalView': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1163): note: see previous definition of 'CalculateViewProjectionMatricesFromMinimalView'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2715) : error C4273: 'UGameplayStatics::GrabOption': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1170): note: see previous definition of 'GrabOption'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2745) : error C4273: 'UGameplayStatics::GetKeyValue': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1179): note: see previous definition of 'GetKeyValue'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2760) : error C4273: 'UGameplayStatics::ParseOption': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1188): note: see previous definition of 'ParseOption'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2776) : error C4273: 'UGameplayStatics::HasOption': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1197): note: see previous definition of 'HasOption'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2790) : error C4273: 'UGameplayStatics::GetIntOption': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1206): note: see previous definition of 'GetIntOption'
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Private\GameplayStatics.cpp(2800) : error C4273: 'UGameplayStatics::HasLaunchOption': inconsistent dll linkage
+[2019.12.12-02.14.08:170][ 40]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h(1216): note: see previous definition of 'HasLaunchOption'
+[2019.12.12-02.14.08:171][ 40]CompilerResultsLog: 
+[2019.12.12-02.14.08:171][ 40]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.23\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2019.12.12-02.14.08:171][ 40]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.12-02.14.08:171][ 40]CompilerResultsLog: 
+[2019.12.12-02.14.08:171][ 40]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2019.12.12-02.14.08:171][ 40]CompilerResultsLog: 
+[2019.12.12-02.14.08:171][ 40]CompilerResultsLog: 1 build system warning(s):
+[2019.12.12-02.14.08:171][ 40]CompilerResultsLog:    - License is invalid
+[2019.12.12-02.14.08:171][ 40]CompilerResultsLog: 
+[2019.12.12-02.14.08:171][ 40]LogMainFrame: MainFrame: Module compiling took 70.897 seconds
+[2019.12.12-02.14.08:172][ 40]Warning: HotReload failed, recompile failed
+[2019.12.12-02.14.30:067][534]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-02.14.30:097][534]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-02.21.33:242][864]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={1BF928D7-47D0-CFBF-BC9E-01A78CD9C2C2}
+[2019.12.12-02.47.22:214][561]Candidate modules for hot reload:
+[2019.12.12-02.47.22:214][561]  Pacman2
+[2019.12.12-02.47.22:215][561]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,5362 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.12-02.47.22:217][561]Warning: Starting HotReload took  0.0s.
+[2019.12.12-02.48.47:434][633]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 8:48:47 PM
+[2019.12.12-02.48.47:436][633]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.12-02.48.47:436][633]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-02.48.47:436][633]CompilerResultsLog: Reflection code generated for Pacman2Editor in 50.8889314 seconds
+[2019.12.12-02.48.47:436][633]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-02.48.47:436][633]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.12-02.48.47:436][633]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.12-02.48.47:436][633]CompilerResultsLog: License is invalid:
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: 
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: AIFoe.cpp (0:27.95 at +0:00)
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Public\AIFoe.h(28): warning C4996: 'AAIController::OnMoveCompleted': This function is now deprecated, please use version with EPathFollowingResultDetails parameter. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AIController.h(223): note: see declaration of 'AAIController::OnMoveCompleted'
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Private\AIFoe.cpp(84): warning C4996: 'UNavigationSystemV1::SimpleMoveToLocation': SimpleMoveToLocation is deprecated. Use UAIBlueprintHelperLibrary::SimpleMoveToLocation instead Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystem.h(1005): note: see declaration of 'UNavigationSystemV1::SimpleMoveToLocation'
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(483) : error C2039: 'StaticClass': is not a member of 'FNavigationPath'
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h(71): note: see declaration of 'FNavigationPath'
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(131): note: see reference to function template instantiation 'bool UObjectBaseUtility::IsA<To>(void) const' being compiled
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:         with
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:         [
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:             To=FNavigationPath
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:         ]
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(130): note: while compiling class template member function 'To *TCastImpl<From,To,ECastType::UObjectToUObject>::DoCast(UObject *)'
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:         with
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:         [
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:             To=FNavigationPath,
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:             From=UNavigationPath
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:         ]
+[2019.12.12-02.48.47:437][633]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(195): note: see reference to function template instantiation 'To *TCastImpl<From,To,ECastType::UObjectToUObject>::DoCast(UObject *)' being compiled
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:         with
+[2019.12.12-02.48.47:437][633]CompilerResultsLog:         [
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:             To=FNavigationPath,
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:             From=UNavigationPath
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:         ]
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(195): note: see reference to class template instantiation 'TCastImpl<From,To,ECastType::UObjectToUObject>' being compiled
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:         with
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:         [
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:             From=UNavigationPath,
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:             To=FNavigationPath
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:         ]
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Private\AIFoe.cpp(80): note: see reference to function template instantiation 'To *Cast<FNavigationPath,UNavigationPath>(From *)' being compiled
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:         with
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:         [
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:             To=FNavigationPath,
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:             From=UNavigationPath
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:         ]
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(483) : error C2672: 'StaticClass': no matching overloaded function found
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(483) : error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(483) : error C2672: 'UObjectBaseUtility::IsA': no matching overloaded function found
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(483) : error C2780: 'bool UObjectBaseUtility::IsA(void) const': expects 0 arguments - 1 provided
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(481): note: see declaration of 'UObjectBaseUtility::IsA'
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: 
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.23\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: 
+[2019.12.12-02.48.47:438][633]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: 
+[2019.12.12-02.48.47:438][633]CompilerResultsLog: 1 build system warning(s):
+[2019.12.12-02.48.47:439][633]CompilerResultsLog:    - License is invalid
+[2019.12.12-02.48.47:439][633]CompilerResultsLog: 
+[2019.12.12-02.48.47:439][633]LogMainFrame: MainFrame: Module compiling took 85.229 seconds
+[2019.12.12-02.48.47:439][633]Warning: HotReload failed, recompile failed
+[2019.12.12-02.49.50:088][ 85]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-02.49.50:106][ 85]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-02.50.28:652][273]Candidate modules for hot reload:
+[2019.12.12-02.50.28:652][273]  Pacman2
+[2019.12.12-02.50.28:652][273]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,5497 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.12-02.50.28:659][273]Warning: Starting HotReload took  0.0s.
+[2019.12.12-02.50.54:489][897]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 8:50:54 PM
+[2019.12.12-02.50.54:490][897]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.12-02.50.54:490][897]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-02.50.54:490][897]CompilerResultsLog: Reflection code generated for Pacman2Editor in 15.0054133 seconds
+[2019.12.12-02.50.54:490][897]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-02.50.54:490][897]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.12-02.50.54:490][897]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.12-02.50.54:490][897]CompilerResultsLog: License is invalid:
+[2019.12.12-02.50.54:490][897]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.12-02.50.54:490][897]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.12-02.50.54:490][897]CompilerResultsLog: 
+[2019.12.12-02.50.54:490][897]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.12-02.50.54:490][897]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.12-02.50.54:490][897]CompilerResultsLog: AIFoe.cpp (0:07.93 at +0:00)
+[2019.12.12-02.50.54:491][897]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Public\AIFoe.h(28): warning C4996: 'AAIController::OnMoveCompleted': This function is now deprecated, please use version with EPathFollowingResultDetails parameter. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.12-02.50.54:491][897]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AIController.h(223): note: see declaration of 'AAIController::OnMoveCompleted'
+[2019.12.12-02.50.54:491][897]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(483) : error C2039: 'StaticClass': is not a member of 'FNavigationPath'
+[2019.12.12-02.50.54:491][897]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h(71): note: see declaration of 'FNavigationPath'
+[2019.12.12-02.50.54:491][897]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(131): note: see reference to function template instantiation 'bool UObjectBaseUtility::IsA<To>(void) const' being compiled
+[2019.12.12-02.50.54:491][897]CompilerResultsLog:         with
+[2019.12.12-02.50.54:491][897]CompilerResultsLog:         [
+[2019.12.12-02.50.54:491][897]CompilerResultsLog:             To=FNavigationPath
+[2019.12.12-02.50.54:491][897]CompilerResultsLog:         ]
+[2019.12.12-02.50.54:491][897]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(130): note: while compiling class template member function 'To *TCastImpl<From,To,ECastType::UObjectToUObject>::DoCast(UObject *)'
+[2019.12.12-02.50.54:491][897]CompilerResultsLog:         with
+[2019.12.12-02.50.54:491][897]CompilerResultsLog:         [
+[2019.12.12-02.50.54:491][897]CompilerResultsLog:             To=FNavigationPath,
+[2019.12.12-02.50.54:491][897]CompilerResultsLog:             From=UNavigationPath
+[2019.12.12-02.50.54:491][897]CompilerResultsLog:         ]
+[2019.12.12-02.50.54:492][897]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(195): note: see reference to function template instantiation 'To *TCastImpl<From,To,ECastType::UObjectToUObject>::DoCast(UObject *)' being compiled
+[2019.12.12-02.50.54:492][897]CompilerResultsLog:         with
+[2019.12.12-02.50.54:492][897]CompilerResultsLog:         [
+[2019.12.12-02.50.54:492][897]CompilerResultsLog:             To=FNavigationPath,
+[2019.12.12-02.50.54:492][897]CompilerResultsLog:             From=UNavigationPath
+[2019.12.12-02.50.54:492][897]CompilerResultsLog:         ]
+[2019.12.12-02.50.54:492][897]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h(195): note: see reference to class template instantiation 'TCastImpl<From,To,ECastType::UObjectToUObject>' being compiled
+[2019.12.12-02.50.54:492][897]CompilerResultsLog:         with
+[2019.12.12-02.50.54:493][897]CompilerResultsLog:         [
+[2019.12.12-02.50.54:493][897]CompilerResultsLog:             From=UNavigationPath,
+[2019.12.12-02.50.54:493][897]CompilerResultsLog:             To=FNavigationPath
+[2019.12.12-02.50.54:493][897]CompilerResultsLog:         ]
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Private\AIFoe.cpp(80): note: see reference to function template instantiation 'To *Cast<FNavigationPath,UNavigationPath>(From *)' being compiled
+[2019.12.12-02.50.54:493][897]CompilerResultsLog:         with
+[2019.12.12-02.50.54:493][897]CompilerResultsLog:         [
+[2019.12.12-02.50.54:493][897]CompilerResultsLog:             To=FNavigationPath,
+[2019.12.12-02.50.54:493][897]CompilerResultsLog:             From=UNavigationPath
+[2019.12.12-02.50.54:493][897]CompilerResultsLog:         ]
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(483) : error C2672: 'StaticClass': no matching overloaded function found
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(483) : error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(483) : error C2672: 'UObjectBaseUtility::IsA': no matching overloaded function found
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(483) : error C2780: 'bool UObjectBaseUtility::IsA(void) const': expects 0 arguments - 1 provided
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h(481): note: see declaration of 'UObjectBaseUtility::IsA'
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: 
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.23\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: 
+[2019.12.12-02.50.54:493][897]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: 
+[2019.12.12-02.50.54:493][897]CompilerResultsLog: 1 build system warning(s):
+[2019.12.12-02.50.54:494][897]CompilerResultsLog:    - License is invalid
+[2019.12.12-02.50.54:494][897]CompilerResultsLog: 
+[2019.12.12-02.50.54:494][897]LogMainFrame: MainFrame: Module compiling took 25.845 seconds
+[2019.12.12-02.50.54:494][897]Warning: HotReload failed, recompile failed
+[2019.12.12-03.01.56:475][374]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-03.01.56:477][374]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-03.01.59:325][413]Candidate modules for hot reload:
+[2019.12.12-03.01.59:325][413]  Pacman2
+[2019.12.12-03.01.59:325][413]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,2217 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.12-03.01.59:331][413]Warning: Starting HotReload took  0.0s.
+[2019.12.12-03.02.30:817][194]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 9:02:30 PM
+[2019.12.12-03.02.30:818][194]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.12-03.02.30:818][194]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-03.02.30:818][194]CompilerResultsLog: Reflection code generated for Pacman2Editor in 15.4955419 seconds
+[2019.12.12-03.02.30:818][194]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-03.02.30:818][194]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.12-03.02.30:818][194]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.12-03.02.30:818][194]CompilerResultsLog: License is invalid:
+[2019.12.12-03.02.30:818][194]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.12-03.02.30:818][194]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.12-03.02.30:818][194]CompilerResultsLog: 
+[2019.12.12-03.02.30:818][194]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.12-03.02.30:818][194]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.12-03.02.30:819][194]CompilerResultsLog: AIFoe.cpp (0:09.65 at +0:00)
+[2019.12.12-03.02.30:819][194]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Public\AIFoe.h(28): warning C4996: 'AAIController::OnMoveCompleted': This function is now deprecated, please use version with EPathFollowingResultDetails parameter. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.12-03.02.30:819][194]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AIController.h(223): note: see declaration of 'AAIController::OnMoveCompleted'
+[2019.12.12-03.02.30:819][194]CompilerResultsLog: UE4Editor-Pacman2-2217.dll (0:01.64 at +0:09)
+[2019.12.12-03.02.30:819][194]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2217.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2217.suppressed.exp
+[2019.12.12-03.02.30:819][194]CompilerResultsLog: UE4Editor-Pacman2-2217.lib (0:00.31 at +0:11)
+[2019.12.12-03.02.30:819][194]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2217.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2217.exp
+[2019.12.12-03.02.30:819][194]CompilerResultsLog: Pacman2Editor.target (0:01.39 at +0:11)
+[2019.12.12-03.02.30:819][194]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.12-03.02.30:819][194]CompilerResultsLog: 
+[2019.12.12-03.02.30:819][194]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.12-03.02.30:820][194]CompilerResultsLog: 
+[2019.12.12-03.02.30:820][194]CompilerResultsLog: 1 build system warning(s):
+[2019.12.12-03.02.30:820][194]CompilerResultsLog:    - License is invalid
+[2019.12.12-03.02.30:820][194]CompilerResultsLog: 
+[2019.12.12-03.02.30:820][194]CompilerResultsLog: Total time in XGE executor: 13.42 seconds
+[2019.12.12-03.02.30:820][194]CompilerResultsLog: Total execution time: 31.34 seconds
+[2019.12.12-03.02.30:820][194]LogMainFrame: MainFrame: Module compiling took 31.499 seconds
+[2019.12.12-03.02.30:952][194]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2019.12.12-03.02.31:011][194]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0022 seconds. Added 6 classes and 3 folders.
+[2019.12.12-03.02.31:014][194]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.12-03.02.31:139][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.12-03.02.31:173][194]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2870 classes and 685 folders.
+[2019.12.12-03.02.31:175][194]Display: HotReload took 31.9s.
+[2019.12.12-03.02.33:660][261]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-03.02.33:689][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-03.02.33:691][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-03.02.33:693][261]PIE: New page: PIE session: NewMap (Dec 12, 2019, 9:02:33 PM)
+[2019.12.12-03.02.33:702][261]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.12-03.02.33:708][261]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.12-03.02.33:734][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025150s)
+[2019.12.12-03.02.33:743][261]LogAIModule: Creating AISystem for world NewMap
+[2019.12.12-03.02.33:747][261]LogPlayLevel: PIE: World Init took: (0.012563s)
+[2019.12.12-03.02.33:747][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.039261s)
+[2019.12.12-03.02.33:772][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.12.12-03.02.33:779][261]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-03.02.33:793][261]LogInit: FAudioDevice initialized.
+[2019.12.12-03.02.33:823][261]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.12-03.02.33:847][261]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.12-12.02.33
+[2019.12.12-03.02.33:874][261]LogWorld: Bringing up level for play took: 0.037187
+[2019.12.12-03.02.33:876][261]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.12-03.02.33:932][261]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.12-03.02.33:947][261]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.818
+[2019.12.12-03.02.33:950][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-03.02.35:910][317]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2019.12.12-03.02.35:910][317]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2019.12.12-03.02.35:910][317]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2019.12.12-03.02.35:910][317]LogNavigation: Warning: UNavigationSystemV1::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL (if any of these is None then there's your problem
+[2019.12.12-03.02.46:160][686]Cmd: RestartLevel
+[2019.12.12-03.02.46:184][687]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.12-03.02.46:184][687]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.12-03.02.46:184][687]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.12-03.02.46:187][687]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-03.02.46:246][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.12.12-03.02.46:249][687]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.12-03.02.46:255][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006472s)
+[2019.12.12-03.02.46:256][687]LogAIModule: Creating AISystem for world NewMap
+[2019.12.12-03.02.46:257][687]LogPlayLevel: PIE: World Init took: (0.001656s)
+[2019.12.12-03.02.46:257][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.008358s)
+[2019.12.12-03.02.46:257][687]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.12-03.02.46:259][687]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.12-12.02.46
+[2019.12.12-03.02.46:260][687]LogWorld: Bringing up level for play took: 0.002854
+[2019.12.12-03.02.46:263][687]LogLoad: Took 0.078580 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.12-03.02.49:797][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-03.02.49:801][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.02.49:801][810]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.12-03.02.49:802][810]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-03.02.49:870][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-03.02.49:870][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-03.02.49:897][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-03.02.49:901][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.12.12-03.02.49:924][811]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.12-03.03.08:154][939]LogSlate: Took 0.021923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-03.07.10:534][958]LogEditorViewport: Clicking on Actor (LMB): Foe (Foe5)
+[2019.12.12-03.07.13:425][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2019.12.12-03.07.16:743][ 99]LogEditorViewport: Clicking on Actor (LMB): Foe (Foe5)
+[2019.12.12-03.19.17:023][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.19.53:251][826]LogEditorViewport: Clicking on Actor (LMB): Foe (Foe4)
+[2019.12.12-03.19.55:388][880]LogEditorViewport: Clicking on Actor (LMB): Foe (Foe3)
+[2019.12.12-03.19.57:551][935]LogEditorViewport: Clicking on Actor (LMB): Foe (Foe2)
+[2019.12.12-03.20.04:622][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-03.20.04:779][117]Candidate modules for hot reload:
+[2019.12.12-03.20.04:779][117]  Pacman2
+[2019.12.12-03.20.04:779][117]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,2763 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.12-03.20.04:786][117]Warning: Starting HotReload took  0.0s.
+[2019.12.12-03.20.42:436][ 14]CompilerResultsLog: New page: Compilation - Dec 12, 2019, 9:20:42 PM
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog: Reflection code generated for Pacman2Editor in 16.4849817 seconds
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog: Distributing 4 actions to XGE
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog: License is invalid:
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog: 
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.12-03.20.42:437][ 14]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.12-03.20.42:438][ 14]CompilerResultsLog: AIFoe.cpp (0:13.73 at +0:00)
+[2019.12.12-03.20.42:438][ 14]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Public\AIFoe.h(28): warning C4996: 'AAIController::OnMoveCompleted': This function is now deprecated, please use version with EPathFollowingResultDetails parameter. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.12-03.20.42:438][ 14]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\AIController.h(223): note: see declaration of 'AAIController::OnMoveCompleted'
+[2019.12.12-03.20.42:438][ 14]CompilerResultsLog: UE4Editor-Pacman2-2763.dll (0:02.14 at +0:13)
+[2019.12.12-03.20.42:438][ 14]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2763.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2763.suppressed.exp
+[2019.12.12-03.20.42:438][ 14]CompilerResultsLog: UE4Editor-Pacman2-2763.lib (0:00.34 at +0:15)
+[2019.12.12-03.20.42:438][ 14]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2763.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2763.exp
+[2019.12.12-03.20.42:438][ 14]CompilerResultsLog: Pacman2Editor.target (0:00.59 at +0:16)
+[2019.12.12-03.20.42:438][ 14]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.12-03.20.42:439][ 14]CompilerResultsLog: 
+[2019.12.12-03.20.42:439][ 14]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.12-03.20.42:439][ 14]CompilerResultsLog: 
+[2019.12.12-03.20.42:439][ 14]CompilerResultsLog: 1 build system warning(s):
+[2019.12.12-03.20.42:439][ 14]CompilerResultsLog:    - License is invalid
+[2019.12.12-03.20.42:439][ 14]CompilerResultsLog: 
+[2019.12.12-03.20.42:439][ 14]CompilerResultsLog: Total time in XGE executor: 17.27 seconds
+[2019.12.12-03.20.42:439][ 14]CompilerResultsLog: Total execution time: 37.34 seconds
+[2019.12.12-03.20.42:439][ 14]LogMainFrame: MainFrame: Module compiling took 37.683 seconds
+[2019.12.12-03.20.42:486][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.12.12-03.20.42:543][ 14]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0005 seconds. Added 6 classes and 3 folders.
+[2019.12.12-03.20.42:545][ 14]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.12-03.20.42:628][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.12-03.20.42:644][ 14]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2870 classes and 685 folders.
+[2019.12.12-03.20.42:644][ 14]Display: HotReload took 37.9s.
+[2019.12.12-03.20.44:971][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-03.20.45:008][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-03.20.45:009][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-03.20.45:009][ 75]PIE: New page: PIE session: NewMap (Dec 12, 2019, 9:20:45 PM)
+[2019.12.12-03.20.45:009][ 75]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.12-03.20.45:024][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014479s)
+[2019.12.12-03.20.45:025][ 75]LogAIModule: Creating AISystem for world NewMap
+[2019.12.12-03.20.45:025][ 75]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2019.12.12-03.20.45:025][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.015920s)
+[2019.12.12-03.20.45:059][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.12-03.20.45:062][ 75]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-03.20.45:077][ 75]LogInit: FAudioDevice initialized.
+[2019.12.12-03.20.45:084][ 75]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.12-03.20.45:086][ 75]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.12-12.20.45
+[2019.12.12-03.20.45:088][ 75]LogWorld: Bringing up level for play took: 0.003285
+[2019.12.12-03.20.45:088][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.12-03.20.45:092][ 75]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.037
+[2019.12.12-03.20.45:092][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.12-03.20.47:838][167]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
