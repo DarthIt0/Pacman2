@@ -1,0 +1,1523 @@
+﻿Log file open, 12/16/19 05:46:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pacman2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.083230
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.15-20.46.09:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.15-20.46.09:292][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.15-20.46.09:293][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.15-20.46.09:293][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.15-20.46.09:293][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.15-20.46.09:293][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.15-20.46.09:293][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.15-20.46.09:293][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.15-20.46.09:295][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.15-20.46.09:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.15-20.46.09:296][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.15-20.46.09:296][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.15-20.46.09:296][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.15-20.46.09:299][  0]LogHAL: Display: Platform has ~ 8 GB [8472039424 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.15-20.46.09:299][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.15-20.46.09:299][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.15-20.46.09:299][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.15-20.46.09:300][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.15-20.46.09:301][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.15-20.46.09:301][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.15-20.46.09:301][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Config/Windows/Engine.ini]
+[2019.12.15-20.46.09:301][  0]LogInit: Computer: DESKTOP-FOR252Q
+[2019.12.15-20.46.09:301][  0]LogInit: User: john
+[2019.12.15-20.46.09:301][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.15-20.46.09:301][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.15-20.46.09:301][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.15-20.46.09:301][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.15-20.46.09:301][  0]LogMemory: Process Physical Memory: 100.39 MB used, 100.40 MB peak
+[2019.12.15-20.46.09:301][  0]LogMemory: Process Virtual Memory: 99.58 MB used, 99.58 MB peak
+[2019.12.15-20.46.09:301][  0]LogMemory: Physical Memory: 3361.71 MB used,  4717.85 MB free, 8079.57 MB total
+[2019.12.15-20.46.09:301][  0]LogMemory: Virtual Memory: 4651.56 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.12.15-20.46.09:303][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.15-20.46.09:325][  0]LogInit: Using OS detected language (en-US).
+[2019.12.15-20.46.09:325][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.15-20.46.09:326][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.15-20.46.09:511][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.15-20.46.09:553][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.15-20.46.09:553][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.15-20.46.09:755][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.15-20.46.09:755][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.15-20.46.09:869][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.12.15-20.46.09:869][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.15-20.46.09:872][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.15-20.46.09:872][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.15-20.46.09:872][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.15-20.46.09:877][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.15-20.46.09:877][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.15-20.46.09:877][  0]LogWindows: EnumDisplayDevices:
+[2019.12.15-20.46.09:877][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.12.15-20.46.09:877][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.15-20.46.09:878][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.12.15-20.46.09:878][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.15-20.46.09:878][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.12.15-20.46.09:878][  0]LogD3D11RHI:   Driver Version: 26.20.100.7463 (internal:26.20.100.7463, unified:26.20.100.7463)
+[2019.12.15-20.46.09:878][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2019.12.15-20.46.09:878][  0]LogRHI: Texture pool is 1503 MB (70% of 2147 MB)
+[2019.12.15-20.46.09:968][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.12.15-20.46.09:968][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.15-20.46.09:982][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.15-20.46.10:429][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.15-20.46.10:439][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.15-20.46.10:449][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.15-20.46.10:459][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.15-20.46.10:471][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.15-20.46.10:484][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.15-20.46.10:494][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.15-20.46.10:505][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.15-20.46.10:511][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.15-20.46.10:574][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.15-20.46.10:576][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.15-20.46.10:602][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.15-20.46.10:602][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.15-20.46.10:622][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.15-20.46.10:622][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.15-20.46.10:632][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.15-20.46.10:641][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.15-20.46.10:650][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.15-20.46.10:665][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.15-20.46.10:694][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.15-20.46.10:694][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.15-20.46.10:694][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.15-20.46.10:706][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.15-20.46.10:767][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Intermediate/Shaders/WorkingDirectory/9236/).
+[2019.12.15-20.46.10:767][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/john/AppData/Local/Temp/UnrealShaderWorkingDir/3547F3454BEA00C9B61C51A649BA6684/'.
+[2019.12.15-20.46.10:771][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.12.15-20.46.11:451][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.15-20.46.11:503][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.15-20.46.11:503][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.15-20.46.11:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/john/Documents/Unreal Projects/Pacman2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.15-20.46.11:503][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.15-20.46.11:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/john/Documents/Unreal Projects/Pacman2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.15-20.46.11:503][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.15-20.46.11:515][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.15-20.46.11:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.15-20.46.11:516][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.15-20.46.11:517][  0]LogDerivedDataCache: Using Local data cache path C:/Users/john/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.15-20.46.11:517][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.15-20.46.11:517][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.15-20.46.11:541][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.15-20.46.11:544][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.15-20.46.11:544][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.15-20.46.11:602][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2019.12.15-20.46.11:914][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.15-20.46.11:973][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.15-20.46.11:973][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.15-20.46.11:973][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.15-20.46.11:973][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.15-20.46.11:973][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.15-20.46.12:091][  0]LogNetVersion: Pacman2 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 199010827)
+[2019.12.15-20.46.12:530][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.051945 seconds
+[2019.12.15-20.46.12:538][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.15-20.46.12:538][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.15-20.46.12:538][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.15-20.46.13:408][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.15-20.46.13:411][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.15-20.46.13:531][  0]SourceControl: Source control is disabled
+[2019.12.15-20.46.13:531][  0]SourceControl: Source control is disabled
+[2019.12.15-20.46.13:532][  0]SourceControl: Source control is disabled
+[2019.12.15-20.46.13:533][  0]SourceControl: Source control is disabled
+[2019.12.15-20.46.13:623][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.15-20.46.13:728][  0]LogOcInput: OculusInput pre-init called
+[2019.12.15-20.46.13:735][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.15-20.46.13:735][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.15-20.46.13:805][  0]LogEngine: Initializing Engine...
+[2019.12.15-20.46.13:806][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.15-20.46.13:807][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.15-20.46.14:047][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.15-20.46.14:063][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.15-20.46.14:274][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.46.14:314][  0]LogInit: FAudioDevice initialized.
+[2019.12.15-20.46.14:315][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.15-20.46.14:455][  0]LogDerivedDataCache: Saved boot cache 0.14s 73MB C:/Users/john/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.15-20.46.14:473][  0]LogInit: Texture streaming: Enabled
+[2019.12.15-20.46.14:512][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.15-20.46.14:512][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.15-20.46.14:513][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.15-20.46.14:584][  0]LogInit: Transaction tracking system initialized
+[2019.12.15-20.46.14:622][  0]BlueprintLog: New page: Editor Load
+[2019.12.15-20.46.14:709][  0]LocalizationService: Localization service is disabled
+[2019.12.15-20.46.15:000][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/' took 0.00s
+[2019.12.15-20.46.15:000][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.15-20.46.15:000][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.15-20.46.15:219][  0]SourceControl: Source control is disabled
+[2019.12.15-20.46.15:219][  0]Cmd: MAP LOAD FILE="../../../../../../Users/john/Documents/Unreal Projects/Pacman2/Content/Levels/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.15-20.46.15:220][  0]LightingResults: New page: Lighting Build
+[2019.12.15-20.46.15:224][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.46.15:224][  0]MapCheck: New page: Map Check
+[2019.12.15-20.46.15:224][  0]LightingResults: New page: Lighting Build
+[2019.12.15-20.46.15:248][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.15-20.46.15:662][  0]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-20.46.15:675][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.15-20.46.15:732][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.12.15-20.46.15:732][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.15-20.46.15:733][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2019.12.15-20.46.15:733][  0]LogFileHelpers: Loading map 'NewMap' took 0.514
+[2019.12.15-20.46.15:895][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.46.15:903][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.46.15:910][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.46.15:918][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.46.15:931][  0]LogCollectionManager: Loaded 0 collections in 0.002081 seconds
+[2019.12.15-20.46.15:940][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Saved/Collections/' took 0.00s
+[2019.12.15-20.46.15:940][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/Developers/john/Collections/' took 0.00s
+[2019.12.15-20.46.15:940][  0]LogFileCache: Scanning file cache for directory 'C:/Users/john/Documents/Unreal Projects/Pacman2/Content/Collections/' took 0.00s
+[2019.12.15-20.46.15:940][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.15-20.46.15:949][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2868 classes and 683 folders.
+[2019.12.15-20.46.15:961][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.15-20.46.16:415][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.15-20.46.16:424][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.15-20.46.16:448][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.15-20.46.16:451][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.15-20.46.16:468][  0]LogSlate: Took 0.008659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.15-20.46.16:627][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.15-20.46.17:187][  0]LogSlate: Took 0.008391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.15-20.46.17:328][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.15-20.46.17:328][  0]LogLoad: (Engine Initialization) Total time: 9.18 seconds
+[2019.12.15-20.46.17:328][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.15-20.46.17:402][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.15-20.46.17:633][  2]LogAssetRegistry: Asset discovery search completed in 6.0326 seconds
+[2019.12.15-20.46.17:638][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.15-20.46.17:638][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2019.12.15-20.46.24:900][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-20.46.25:128][190]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.15-20.46.25:165][190]LogAssetEditorManager: Opening Asset editor for Class /Script/Pacman2.Pacman2GameModeBase
+[2019.12.15-20.47.17:970][309]LogHttp: Warning: 0000014650E8EAC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-20.47.17:971][309]LogHttp: Warning: 0000014650E8EAC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-20.47.17:971][309]LogHttp: Warning: 0000014650E8EAC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-20.47.17:971][309]LogHttp: Warning: 0000014650E8EAC0: libcurl info message cache 1 (Closing connection 0)
+[2019.12.15-20.47.18:303][310]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-20.49.18:821][671]LogHttp: Warning: 0000014650E8EAC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-20.49.18:821][671]LogHttp: Warning: 0000014650E8EAC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-20.49.18:821][671]LogHttp: Warning: 0000014650E8EAC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-20.49.18:821][671]LogHttp: Warning: 0000014650E8EAC0: libcurl info message cache 1 (Closing connection 1)
+[2019.12.15-20.49.19:154][672]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-20.49.53:802][815]Candidate modules for hot reload:
+[2019.12.15-20.49.53:802][815]  Pacman2
+[2019.12.15-20.49.53:803][815]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,2237 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.15-20.49.53:805][815]Warning: Starting HotReload took  0.1s.
+[2019.12.15-20.51.19:217][890]LogHttp: Warning: 0000014650E8CF40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-20.51.19:217][890]LogHttp: Warning: 0000014650E8CF40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-20.51.19:217][890]LogHttp: Warning: 0000014650E8CF40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-20.51.19:217][890]LogHttp: Warning: 0000014650E8CF40: libcurl info message cache 1 (Closing connection 2)
+[2019.12.15-20.51.19:217][890]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-20.51.36:102][286]CompilerResultsLog: New page: Compilation - Dec 16, 2019, 2:51:36 PM
+[2019.12.15-20.51.36:105][286]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.15-20.51.36:105][286]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.15-20.51.36:105][286]CompilerResultsLog: Reflection code generated for Pacman2Editor in 41.1647432 seconds
+[2019.12.15-20.51.36:105][286]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.15-20.51.36:105][286]CompilerResultsLog: Distributing 6 actions to XGE
+[2019.12.15-20.51.36:105][286]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.15-20.51.36:105][286]CompilerResultsLog: License is invalid:
+[2019.12.15-20.51.36:105][286]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.15-20.51.36:106][286]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.15-20.51.36:106][286]CompilerResultsLog: 
+[2019.12.15-20.51.36:106][286]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.15-20.51.36:106][286]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.15-20.51.36:106][286]CompilerResultsLog: Foe.gen.cpp (0:27.03 at +0:00)
+[2019.12.15-20.51.36:106][286]CompilerResultsLog: Foe.cpp (0:20.04 at +0:27)
+[2019.12.15-20.51.36:106][286]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Private\Foe.cpp(50): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.15-20.51.36:106][286]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(658): note: see declaration of 'USceneComponent::AttachTo'
+[2019.12.15-20.51.36:106][286]CompilerResultsLog: Pacman2GameModeBase.cpp (0:05.32 at +0:47)
+[2019.12.15-20.51.36:106][286]CompilerResultsLog: UE4Editor-Pacman2-2237.dll (0:02.64 at +0:52)
+[2019.12.15-20.51.36:106][286]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2237.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2237.suppressed.exp
+[2019.12.15-20.51.36:106][286]CompilerResultsLog: UE4Editor-Pacman2-2237.lib (0:00.34 at +0:55)
+[2019.12.15-20.51.36:106][286]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2237.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-2237.exp
+[2019.12.15-20.51.36:107][286]CompilerResultsLog: Pacman2Editor.target (0:01.68 at +0:55)
+[2019.12.15-20.51.36:107][286]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.15-20.51.36:107][286]CompilerResultsLog: 
+[2019.12.15-20.51.36:107][286]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.15-20.51.36:107][286]CompilerResultsLog: 
+[2019.12.15-20.51.36:107][286]CompilerResultsLog: 1 build system warning(s):
+[2019.12.15-20.51.36:107][286]CompilerResultsLog:    - License is invalid
+[2019.12.15-20.51.36:107][286]CompilerResultsLog: 
+[2019.12.15-20.51.36:107][286]CompilerResultsLog: Total time in XGE executor: 57.72 seconds
+[2019.12.15-20.51.36:107][286]CompilerResultsLog: Total execution time: 102.10 seconds
+[2019.12.15-20.51.36:107][286]LogMainFrame: MainFrame: Module compiling took 102.309 seconds
+[2019.12.15-20.51.36:153][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.12.15-20.51.36:203][286]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0007 seconds. Added 5 classes and 3 folders.
+[2019.12.15-20.51.36:205][286]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.15-20.51.36:293][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.12.15-20.51.36:309][286]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2869 classes and 685 folders.
+[2019.12.15-20.51.36:311][286]Display: HotReload took 102.6s.
+[2019.12.15-20.51.39:775][375]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-20.51.39:805][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-20.51.39:808][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-20.51.39:809][375]PIE: New page: PIE session: NewMap (Dec 16, 2019, 2:51:39 PM)
+[2019.12.15-20.51.39:817][375]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.15-20.51.39:823][375]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-20.51.39:856][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032224s)
+[2019.12.15-20.51.39:864][375]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-20.51.39:866][375]LogPlayLevel: PIE: World Init took: (0.010520s)
+[2019.12.15-20.51.39:867][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.043677s)
+[2019.12.15-20.51.39:887][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.12.15-20.51.39:894][375]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-20.51.39:907][375]LogInit: FAudioDevice initialized.
+[2019.12.15-20.51.39:932][375]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-20.51.39:963][375]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-05.51.39
+[2019.12.15-20.51.40:003][375]LogWorld: Bringing up level for play took: 0.056160
+[2019.12.15-20.51.40:006][375]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.15-20.51.40:096][375]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.15-20.51.40:115][375]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.846
+[2019.12.15-20.51.40:119][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-20.51.50:017][708]Cmd: RestartLevel
+[2019.12.15-20.51.50:042][709]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.15-20.51.50:043][709]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.15-20.51.50:043][709]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-20.51.50:046][709]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.51.50:106][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.15-20.51.50:108][709]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-20.51.50:121][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013296s)
+[2019.12.15-20.51.50:122][709]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-20.51.50:123][709]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2019.12.15-20.51.50:123][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.014686s)
+[2019.12.15-20.51.50:123][709]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-20.51.50:127][709]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-05.51.50
+[2019.12.15-20.51.50:131][709]LogWorld: Bringing up level for play took: 0.007367
+[2019.12.15-20.51.50:134][709]LogLoad: Took 0.090347 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.15-20.52.57:574][124]Cmd: RestartLevel
+[2019.12.15-20.52.57:600][125]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.15-20.52.57:601][125]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.15-20.52.57:601][125]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-20.52.57:602][125]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.52.57:657][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.12.15-20.52.57:658][125]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-20.52.57:671][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013090s)
+[2019.12.15-20.52.57:672][125]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-20.52.57:672][125]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2019.12.15-20.52.57:672][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.014328s)
+[2019.12.15-20.52.57:672][125]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-20.52.57:679][125]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-05.52.57
+[2019.12.15-20.52.57:684][125]LogWorld: Bringing up level for play took: 0.010996
+[2019.12.15-20.52.57:686][125]LogLoad: Took 0.085345 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.15-20.53.17:856][834]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={AD72D8D0-4AF1-F268-415A-37810FB6ADBE}
+[2019.12.15-20.53.19:280][885]LogHttp: Warning: 000001467398FEC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-20.53.19:280][885]LogHttp: Warning: 000001467398FEC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-20.53.19:280][885]LogHttp: Warning: 000001467398FEC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-20.53.19:280][885]LogHttp: Warning: 000001467398FEC0: libcurl info message cache 1 (Closing connection 3)
+[2019.12.15-20.53.19:308][886]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-20.54.25:534][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-20.54.25:538][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.54.25:538][289]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-20.54.25:538][289]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-20.54.25:606][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-20.54.25:606][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-20.54.25:636][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-20.54.25:640][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.12.15-20.54.25:662][290]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.15-20.54.27:164][328]Cmd: SELECT NONE
+[2019.12.15-20.55.19:971][552]LogHttp: Warning: 00000146739A82C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-20.55.19:971][552]LogHttp: Warning: 00000146739A82C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-20.55.19:971][552]LogHttp: Warning: 00000146739A82C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-20.55.19:971][552]LogHttp: Warning: 00000146739A82C0: libcurl info message cache 1 (Closing connection 4)
+[2019.12.15-20.55.19:972][552]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-20.56.17:979][724]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B754F374-4ABF-5C0B-F134-FA86683964D2}
+[2019.12.15-20.57.20:325][911]LogHttp: Warning: 00000146739A82C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-20.57.20:326][911]LogHttp: Warning: 00000146739A82C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-20.57.20:326][911]LogHttp: Warning: 00000146739A82C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-20.57.20:326][911]LogHttp: Warning: 00000146739A82C0: libcurl info message cache 1 (Closing connection 5)
+[2019.12.15-20.57.20:663][912]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-20.59.21:012][271]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-20.59.21:012][271]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-20.59.21:012][271]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-20.59.21:012][271]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 6)
+[2019.12.15-20.59.21:348][272]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.01.21:710][631]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.01.21:710][631]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.01.21:710][631]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.01.21:710][631]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 7)
+[2019.12.15-21.01.22:051][632]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.03.22:701][992]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.03.22:701][992]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.03.22:701][992]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.03.22:701][992]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 8)
+[2019.12.15-21.03.22:701][992]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.05.23:339][352]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.05.23:339][352]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.05.23:339][352]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.05.23:339][352]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 9)
+[2019.12.15-21.05.23:339][352]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.07.23:680][711]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.07.23:681][711]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.07.23:681][711]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.07.23:681][711]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 10)
+[2019.12.15-21.07.24:017][712]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.09.24:665][ 72]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.09.24:665][ 72]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.09.24:665][ 72]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.09.24:665][ 72]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 11)
+[2019.12.15-21.09.24:665][ 72]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.11.25:310][432]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.11.25:311][432]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.11.25:311][432]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.11.25:311][432]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 12)
+[2019.12.15-21.11.25:311][432]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.13.25:900][792]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.13.25:901][792]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.13.25:901][792]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.13.25:901][792]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 13)
+[2019.12.15-21.13.25:901][792]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.15.26:515][152]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.15.26:515][152]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.15.26:515][152]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.15.26:515][152]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 14)
+[2019.12.15-21.15.26:515][152]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.17.26:927][511]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.17.26:927][511]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.17.26:927][511]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.17.26:928][511]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 15)
+[2019.12.15-21.17.27:271][512]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.19.27:938][872]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.19.27:938][872]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.19.27:938][872]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.19.27:939][872]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 16)
+[2019.12.15-21.19.27:939][872]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.21.28:306][231]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.21.28:306][231]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.21.28:306][231]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.21.28:306][231]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 17)
+[2019.12.15-21.21.28:643][232]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.23.28:996][591]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.23.28:996][591]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.23.28:996][591]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.23.28:996][591]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 18)
+[2019.12.15-21.23.29:329][592]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.25.29:924][952]LogHttp: Warning: 00000146739AA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.25.29:924][952]LogHttp: Warning: 00000146739AA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.25.29:925][952]LogHttp: Warning: 00000146739AA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.25.29:925][952]LogHttp: Warning: 00000146739AA980: libcurl info message cache 1 (Closing connection 19)
+[2019.12.15-21.25.29:925][952]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.26.55:737][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.26.55:928][286]Candidate modules for hot reload:
+[2019.12.15-21.26.55:928][286]  Pacman2
+[2019.12.15-21.26.55:929][286]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,3401 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.15-21.26.55:939][286]Warning: Starting HotReload took  0.1s.
+[2019.12.15-21.27.29:990][ 86]LogHttp: Warning: 0000014673BAA480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.27.29:990][ 86]LogHttp: Warning: 0000014673BAA480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.27.29:990][ 86]LogHttp: Warning: 0000014673BAA480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.27.29:990][ 86]LogHttp: Warning: 0000014673BAA480: libcurl info message cache 1 (Closing connection 20)
+[2019.12.15-21.27.29:990][ 86]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.29.30:049][906]LogHttp: Warning: 0000014673BA8CC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.29.30:049][906]LogHttp: Warning: 0000014673BA8CC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.29.30:049][906]LogHttp: Warning: 0000014673BA8CC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.29.30:049][906]LogHttp: Warning: 0000014673BA8CC0: libcurl info message cache 1 (Closing connection 21)
+[2019.12.15-21.29.30:049][906]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.29.35:351][ 28]CompilerResultsLog: New page: Compilation - Dec 16, 2019, 3:29:35 PM
+[2019.12.15-21.29.35:352][ 28]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.15-21.29.35:352][ 28]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.15-21.29.35:352][ 28]CompilerResultsLog: Reflection code generated for Pacman2Editor in 59.8229778 seconds
+[2019.12.15-21.29.35:352][ 28]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.15-21.29.35:352][ 28]CompilerResultsLog: Distributing 12 actions to XGE
+[2019.12.15-21.29.35:352][ 28]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.15-21.29.35:352][ 28]CompilerResultsLog: License is invalid:
+[2019.12.15-21.29.35:352][ 28]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.15-21.29.35:352][ 28]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: 
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: Pacman2.init.gen.cpp (0:19.82 at +0:00)
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: Pac.gen.cpp (0:11.18 at +0:19)
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: Coin.gen.cpp (0:03.73 at +0:31)
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: Foe.gen.cpp (0:05.25 at +0:34)
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: PHud.cpp (0:11.17 at +0:40)
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: Pac.cpp (0:14.70 at +0:51)
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: Foe.cpp (0:11.03 at +1:06)
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Private\Foe.cpp(50): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(658): note: see declaration of 'USceneComponent::AttachTo'
+[2019.12.15-21.29.35:353][ 28]CompilerResultsLog: Coin.cpp (0:02.65 at +1:17)
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Private\Coin.cpp(25): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(658): note: see declaration of 'USceneComponent::AttachTo'
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: Pacman2GameModeBase.cpp (0:04.79 at +1:19)
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: UE4Editor-Pacman2-3401.dll (0:02.62 at +1:24)
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-3401.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-3401.suppressed.exp
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: UE4Editor-Pacman2-3401.lib (0:00.36 at +1:27)
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-3401.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-3401.exp
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: Pacman2Editor.target (0:01.84 at +1:27)
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: 
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: 
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: 1 build system warning(s):
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog:    - License is invalid
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: 
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: Total time in XGE executor: 90.04 seconds
+[2019.12.15-21.29.35:354][ 28]CompilerResultsLog: Total execution time: 159.07 seconds
+[2019.12.15-21.29.35:355][ 28]LogMainFrame: MainFrame: Module compiling took 159.433 seconds
+[2019.12.15-21.29.35:420][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.12.15-21.29.35:443][ 28]LogClass: Could not find existing class Coin in package /Script/Pacman2 for HotReload, assuming new class
+[2019.12.15-21.29.35:444][ 28]LogClass: Could not find existing class Foe in package /Script/Pacman2 for HotReload, assuming new class
+[2019.12.15-21.29.35:444][ 28]LogClass: Function OnCollision is new.
+[2019.12.15-21.29.35:459][ 28]LogHotReload: Re-instancing Coin after hot-reload.
+[2019.12.15-21.29.35:463][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:471][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin36 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:473][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin37_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:474][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin39 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:475][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin40 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:476][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin41 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:477][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:477][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin43 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:478][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin45 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:479][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin46 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:480][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin47 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:480][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin48 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:481][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin49 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:482][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin50 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:483][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin51 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:484][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin52 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:485][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin53 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:486][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin54 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:487][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin55 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:488][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin56 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:488][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:489][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin58 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:490][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin59 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:491][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin60 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:492][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin61 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:493][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin62 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:493][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin63 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:494][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin64 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:495][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin65 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:496][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin66 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:497][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin67 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:497][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin68 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:499][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin69_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:500][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin70_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:501][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin71 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:502][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin72 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:503][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin73 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:503][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin74 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:504][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin75 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:505][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:506][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin77 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:506][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:507][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin79 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:508][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin80 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:509][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin81 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:510][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin82 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:511][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin83 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:512][ 28]LogActor: Warning: Coin /Game/Levels/NewMap.NewMap:PersistentLevel.Coin84 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.15-21.29.35:650][ 28]LogHotReload: Re-instancing Foe after hot-reload.
+[2019.12.15-21.29.35:889][ 28]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0018 seconds. Added 5 classes and 3 folders.
+[2019.12.15-21.29.35:891][ 28]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.12.15-21.29.35:976][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.12.15-21.29.35:994][ 28]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2869 classes and 685 folders.
+[2019.12.15-21.29.35:994][ 28]Display: HotReload took 160.1s.
+[2019.12.15-21.29.43:209][205]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.29.43:257][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.29.43:257][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.29.43:257][205]PIE: New page: PIE session: NewMap (Dec 16, 2019, 3:29:43 PM)
+[2019.12.15-21.29.43:258][205]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.29.43:298][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039689s)
+[2019.12.15-21.29.43:301][205]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.29.43:301][205]LogPlayLevel: PIE: World Init took: (0.003709s)
+[2019.12.15-21.29.43:302][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.043966s)
+[2019.12.15-21.29.43:325][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.12.15-21.29.43:328][205]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.29.43:342][205]LogInit: FAudioDevice initialized.
+[2019.12.15-21.29.43:353][205]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.29.43:358][205]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.29.43
+[2019.12.15-21.29.43:363][205]LogWorld: Bringing up level for play took: 0.008662
+[2019.12.15-21.29.43:363][205]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.12.15-21.29.43:370][205]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.1
+[2019.12.15-21.29.43:371][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.29.51:349][472]Cmd: RestartLevel
+[2019.12.15-21.29.51:377][473]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.15-21.29.51:377][473]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.15-21.29.51:378][473]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.29.51:379][473]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.29.51:437][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.12.15-21.29.51:438][473]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.29.51:451][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013322s)
+[2019.12.15-21.29.51:452][473]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.29.51:452][473]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2019.12.15-21.29.51:452][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.014683s)
+[2019.12.15-21.29.51:452][473]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.29.51:457][473]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.29.51
+[2019.12.15-21.29.51:460][473]LogWorld: Bringing up level for play took: 0.007502
+[2019.12.15-21.29.51:464][473]LogLoad: Took 0.085961 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.15-21.31.08:887][185]Cmd: RestartLevel
+[2019.12.15-21.31.08:914][186]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.15-21.31.08:915][186]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.15-21.31.08:915][186]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.31.08:916][186]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.31.08:971][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.12.15-21.31.08:971][186]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.31.08:984][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012775s)
+[2019.12.15-21.31.08:985][186]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.31.08:985][186]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2019.12.15-21.31.08:985][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.014093s)
+[2019.12.15-21.31.08:985][186]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.31.08:991][186]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.31.08
+[2019.12.15-21.31.08:996][186]LogWorld: Bringing up level for play took: 0.010181
+[2019.12.15-21.31.08:999][186]LogLoad: Took 0.085429 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.15-21.31.25:578][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.31.25:578][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.31.25:578][753]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.31.25:579][753]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.31.25:657][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.31.25:657][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.31.25:681][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.31.25:684][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.12.15-21.31.25:705][754]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.15-21.31.30:526][830]LogHttp: Warning: 00000146739A8B80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.31.30:526][830]LogHttp: Warning: 00000146739A8B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.31.30:526][830]LogHttp: Warning: 00000146739A8B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.31.30:526][830]LogHttp: Warning: 00000146739A8B80: libcurl info message cache 1 (Closing connection 22)
+[2019.12.15-21.31.30:526][830]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.33.01:856][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.33.01:981][135]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.33.02:031][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.33.02:031][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.33.02:031][135]PIE: New page: PIE session: NewMap (Dec 16, 2019, 3:33:02 PM)
+[2019.12.15-21.33.02:031][135]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.33.02:057][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025336s)
+[2019.12.15-21.33.02:059][135]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.33.02:059][135]LogPlayLevel: PIE: World Init took: (0.002446s)
+[2019.12.15-21.33.02:059][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.028022s)
+[2019.12.15-21.33.02:081][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.15-21.33.02:084][135]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.33.02:097][135]LogInit: FAudioDevice initialized.
+[2019.12.15-21.33.02:102][135]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.33.02:106][135]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.33.02
+[2019.12.15-21.33.02:109][135]LogWorld: Bringing up level for play took: 0.006504
+[2019.12.15-21.33.02:109][135]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.15-21.33.02:113][135]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap 0.844
+[2019.12.15-21.33.02:113][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.33.30:608][114]LogHttp: Warning: 000001463811C900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.33.30:608][114]LogHttp: Warning: 000001463811C900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.33.30:608][114]LogHttp: Warning: 000001463811C900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.33.30:608][114]LogHttp: Warning: 000001463811C900: libcurl info message cache 1 (Closing connection 23)
+[2019.12.15-21.33.30:608][114]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.33.34:864][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.33.34:864][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.33.34:864][261]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.33.34:865][261]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.33.34:943][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.33.34:943][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.33.34:969][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.33.34:972][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.12.15-21.33.34:992][262]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.15-21.33.38:517][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.33.38:638][353]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.33.38:679][353]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.33.38:679][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.33.38:679][353]PIE: New page: PIE session: NewMap (Dec 16, 2019, 3:33:38 PM)
+[2019.12.15-21.33.38:680][353]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.33.38:699][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019356s)
+[2019.12.15-21.33.38:700][353]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.33.38:701][353]LogPlayLevel: PIE: World Init took: (0.001752s)
+[2019.12.15-21.33.38:701][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.021555s)
+[2019.12.15-21.33.38:727][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.12.15-21.33.38:729][353]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.33.38:744][353]LogInit: FAudioDevice initialized.
+[2019.12.15-21.33.38:749][353]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.33.38:753][353]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.33.38
+[2019.12.15-21.33.38:756][353]LogWorld: Bringing up level for play took: 0.006599
+[2019.12.15-21.33.38:756][353]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.15-21.33.38:760][353]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.509
+[2019.12.15-21.33.38:760][353]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.33.50:068][738]Cmd: RestartLevel
+[2019.12.15-21.33.50:095][739]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.15-21.33.50:095][739]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.15-21.33.50:095][739]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.33.50:096][739]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.33.50:154][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.12.15-21.33.50:154][739]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.33.50:167][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012784s)
+[2019.12.15-21.33.50:168][739]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.33.50:168][739]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2019.12.15-21.33.50:168][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.013932s)
+[2019.12.15-21.33.50:168][739]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.33.50:173][739]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.33.50
+[2019.12.15-21.33.50:176][739]LogWorld: Bringing up level for play took: 0.006835
+[2019.12.15-21.33.50:178][739]LogLoad: Took 0.082742 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.15-21.34.04:834][241]Cmd: RestartLevel
+[2019.12.15-21.34.04:863][242]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.15-21.34.04:863][242]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.15-21.34.04:863][242]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.34.04:864][242]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.34.04:922][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.12.15-21.34.04:922][242]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.34.04:934][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012207s)
+[2019.12.15-21.34.04:935][242]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.34.04:935][242]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2019.12.15-21.34.04:935][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.013391s)
+[2019.12.15-21.34.04:935][242]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.34.04:941][242]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.34.04
+[2019.12.15-21.34.04:945][242]LogWorld: Bringing up level for play took: 0.009503
+[2019.12.15-21.34.04:948][242]LogLoad: Took 0.084565 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.15-21.34.34:557][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.34.34:558][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.34.34:558][262]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.34.34:559][262]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.34.34:639][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.34.34:639][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.34.34:666][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.34.34:671][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.15-21.34.34:694][263]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.15-21.35.30:939][662]LogHttp: Warning: 0000014650E90680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.35.30:939][662]LogHttp: Warning: 0000014650E90680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.35.30:939][662]LogHttp: Warning: 0000014650E90680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.35.30:939][662]LogHttp: Warning: 0000014650E90680: libcurl info message cache 1 (Closing connection 24)
+[2019.12.15-21.35.30:940][662]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.37.31:596][ 22]LogHttp: Warning: 0000014650E90680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.37.31:597][ 22]LogHttp: Warning: 0000014650E90680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.37.31:597][ 22]LogHttp: Warning: 0000014650E90680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.37.31:597][ 22]LogHttp: Warning: 0000014650E90680: libcurl info message cache 1 (Closing connection 25)
+[2019.12.15-21.37.31:597][ 22]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.39.32:016][381]LogHttp: Warning: 0000014650E90680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.39.32:016][381]LogHttp: Warning: 0000014650E90680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.39.32:016][381]LogHttp: Warning: 0000014650E90680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.39.32:017][381]LogHttp: Warning: 0000014650E90680: libcurl info message cache 1 (Closing connection 26)
+[2019.12.15-21.39.32:348][382]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.40.38:948][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.40.39:114][627]Candidate modules for hot reload:
+[2019.12.15-21.40.39:114][627]  Pacman2
+[2019.12.15-21.40.39:114][627]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman2,1899 Win64 Development -TargetType=Editor -Project="C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject" "C:/Users/john/Documents/Unreal Projects/Pacman2/Pacman2.uproject"  -IgnoreJunk]
+[2019.12.15-21.40.39:122][627]Warning: Starting HotReload took  0.1s.
+[2019.12.15-21.41.32:396][863]LogHttp: Warning: 00000146739BC2C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.41.32:396][863]LogHttp: Warning: 00000146739BC2C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.41.32:396][863]LogHttp: Warning: 00000146739BC2C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.41.32:396][863]LogHttp: Warning: 00000146739BC2C0: libcurl info message cache 1 (Closing connection 27)
+[2019.12.15-21.41.32:443][864]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.41.44:361][133]CompilerResultsLog: New page: Compilation - Dec 16, 2019, 3:41:44 PM
+[2019.12.15-21.41.44:362][133]CompilerResultsLog: Parsing headers for Pacman2Editor
+[2019.12.15-21.41.44:362][133]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\john\Documents\Unreal Projects\Pacman2\Pacman2.uproject" "C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\Pacman2Editor\Development\Pacman2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.15-21.41.44:363][133]CompilerResultsLog: Reflection code generated for Pacman2Editor in 18.6961585 seconds
+[2019.12.15-21.41.44:363][133]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.15-21.41.44:363][133]CompilerResultsLog: Distributing 5 actions to XGE
+[2019.12.15-21.41.44:363][133]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2019.12.15-21.41.44:363][133]CompilerResultsLog: License is invalid:
+[2019.12.15-21.41.44:363][133]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2019.12.15-21.41.44:364][133]CompilerResultsLog:     This build will run in standalone mode.
+[2019.12.15-21.41.44:364][133]CompilerResultsLog: 
+[2019.12.15-21.41.44:364][133]CompilerResultsLog: -------------------------------------------------------------------------------
+[2019.12.15-21.41.44:364][133]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2019.12.15-21.41.44:364][133]CompilerResultsLog: PHud.cpp (0:19.87 at +0:00)
+[2019.12.15-21.41.44:364][133]CompilerResultsLog: Foe.cpp (0:18.11 at +0:19)
+[2019.12.15-21.41.44:364][133]CompilerResultsLog: C:\Users\john\Documents\Unreal Projects\Pacman2\Source\Pacman2\Private\Foe.cpp(52): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.15-21.41.44:364][133]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(658): note: see declaration of 'USceneComponent::AttachTo'
+[2019.12.15-21.41.44:364][133]CompilerResultsLog: UE4Editor-Pacman2-1899.dll (0:02.50 at +0:38)
+[2019.12.15-21.41.44:364][133]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1899.suppressed.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1899.suppressed.exp
+[2019.12.15-21.41.44:364][133]CompilerResultsLog: UE4Editor-Pacman2-1899.lib (0:00.37 at +0:40)
+[2019.12.15-21.41.44:365][133]CompilerResultsLog:    Creating library C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1899.lib and object C:\Users\john\Documents\Unreal Projects\Pacman2\Intermediate\Build\Win64\UE4Editor\Development\Pacman2\UE4Editor-Pacman2-1899.exp
+[2019.12.15-21.41.44:365][133]CompilerResultsLog: Pacman2Editor.target (0:00.64 at +0:40)
+[2019.12.15-21.41.44:365][133]CompilerResultsLog: ---------------------- Done ----------------------
+[2019.12.15-21.41.44:365][133]CompilerResultsLog: 
+[2019.12.15-21.41.44:365][133]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2019.12.15-21.41.44:365][133]CompilerResultsLog: 
+[2019.12.15-21.41.44:365][133]CompilerResultsLog: 1 build system warning(s):
+[2019.12.15-21.41.44:365][133]CompilerResultsLog:    - License is invalid
+[2019.12.15-21.41.44:365][133]CompilerResultsLog: 
+[2019.12.15-21.41.44:365][133]CompilerResultsLog: Total time in XGE executor: 42.12 seconds
+[2019.12.15-21.41.44:365][133]CompilerResultsLog: Total execution time: 64.97 seconds
+[2019.12.15-21.41.44:366][133]LogMainFrame: MainFrame: Module compiling took 65.277 seconds
+[2019.12.15-21.41.44:411][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.12.15-21.41.44:493][133]LogContentBrowser: Native class hierarchy updated for 'Pacman2' in 0.0009 seconds. Added 5 classes and 3 folders.
+[2019.12.15-21.41.44:496][133]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.15-21.41.44:579][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.15-21.41.44:599][133]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2869 classes and 685 folders.
+[2019.12.15-21.41.44:599][133]Display: HotReload took 65.5s.
+[2019.12.15-21.41.50:611][281]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-21.41.50:657][281]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.41.50:657][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-21.41.50:657][281]PIE: New page: PIE session: NewMap (Dec 16, 2019, 3:41:50 PM)
+[2019.12.15-21.41.50:657][281]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.41.50:677][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020725s)
+[2019.12.15-21.41.50:680][281]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.41.50:681][281]LogPlayLevel: PIE: World Init took: (0.004163s)
+[2019.12.15-21.41.50:682][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.025381s)
+[2019.12.15-21.41.50:710][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.12.15-21.41.50:713][281]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.15-21.41.50:726][281]LogInit: FAudioDevice initialized.
+[2019.12.15-21.41.50:741][281]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.41.50:746][281]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.41.50
+[2019.12.15-21.41.50:749][281]LogWorld: Bringing up level for play took: 0.007376
+[2019.12.15-21.41.50:749][281]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.15-21.41.50:752][281]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_NewMap -0.516
+[2019.12.15-21.41.50:753][281]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.43.08:850][ 11]Cmd: RestartLevel
+[2019.12.15-21.43.08:877][ 12]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.15-21.43.08:878][ 12]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.15-21.43.08:878][ 12]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.43.08:879][ 12]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.43.08:934][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.15-21.43.08:935][ 12]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.43.08:947][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012335s)
+[2019.12.15-21.43.08:949][ 12]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.43.08:950][ 12]LogPlayLevel: PIE: World Init took: (0.002276s)
+[2019.12.15-21.43.08:950][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.014904s)
+[2019.12.15-21.43.08:950][ 12]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.43.08:954][ 12]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.43.08
+[2019.12.15-21.43.08:957][ 12]LogWorld: Bringing up level for play took: 0.006875
+[2019.12.15-21.43.08:960][ 12]LogLoad: Took 0.081960 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.15-21.43.32:481][821]LogHttp: Warning: 00000146739BC180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.43.32:481][821]LogHttp: Warning: 00000146739BC180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.43.32:481][821]LogHttp: Warning: 00000146739BC180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.43.32:481][821]LogHttp: Warning: 00000146739BC180: libcurl info message cache 1 (Closing connection 28)
+[2019.12.15-21.43.32:509][822]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.44.32:949][965]Cmd: RestartLevel
+[2019.12.15-21.44.32:976][966]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.15-21.44.32:976][966]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.15-21.44.32:976][966]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.44.32:977][966]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.44.33:033][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.12.15-21.44.33:033][966]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.44.33:046][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012463s)
+[2019.12.15-21.44.33:047][966]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.44.33:047][966]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2019.12.15-21.44.33:047][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.013927s)
+[2019.12.15-21.44.33:047][966]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.44.33:053][966]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.44.33
+[2019.12.15-21.44.33:056][966]LogWorld: Bringing up level for play took: 0.008007
+[2019.12.15-21.44.33:059][966]LogLoad: Took 0.082282 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.15-21.45.01:798][959]Cmd: RestartLevel
+[2019.12.15-21.45.01:826][960]LogNet: Browse: /Game/Levels/NewMap?restart
+[2019.12.15-21.45.01:826][960]LogLoad: LoadMap: /Game/Levels/NewMap
+[2019.12.15-21.45.01:826][960]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.45.01:828][960]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.45.01:884][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.12.15-21.45.01:884][960]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.45.01:896][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011761s)
+[2019.12.15-21.45.01:897][960]LogAIModule: Creating AISystem for world NewMap
+[2019.12.15-21.45.01:898][960]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2019.12.15-21.45.01:898][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.013282s)
+[2019.12.15-21.45.01:898][960]LogLoad: Game class is 'Pacman2GameModeBase'
+[2019.12.15-21.45.01:903][960]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2019.12.16-06.45.01
+[2019.12.15-21.45.01:906][960]LogWorld: Bringing up level for play took: 0.007024
+[2019.12.15-21.45.01:909][960]LogLoad: Took 0.083272 seconds to LoadMap(/Game/Levels/UEDPIE_0_NewMap)
+[2019.12.15-21.45.16:357][454]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.45.16:358][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.45.16:358][454]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2019.12.15-21.45.16:358][454]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.45.16:437][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-21.45.16:437][454]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Levels/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Levels/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.15-21.45.16:466][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-21.45.16:470][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.12.15-21.45.16:491][455]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.15-21.45.32:957][660]LogHttp: Warning: 0000014673BA8B80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.45.32:958][660]LogHttp: Warning: 0000014673BA8B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.45.32:958][660]LogHttp: Warning: 0000014673BA8B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.45.32:958][660]LogHttp: Warning: 0000014673BA8B80: libcurl info message cache 1 (Closing connection 29)
+[2019.12.15-21.45.32:958][660]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.15-21.45.35:123][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-21.45.35:334][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.12.15-21.45.35:428][666]LogSlate: Window 'Pacman2 - Unreal Editor' being destroyed
+[2019.12.15-21.45.35:430][666]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.15-21.45.35:628][667]Cmd: QUIT_EDITOR
+[2019.12.15-21.45.36:070][667]LogExit: Preparing to exit.
+[2019.12.15-21.45.36:426][667]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.15-21.45.36:506][667]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-21.45.36:507][667]LogExit: Editor shut down
+[2019.12.15-21.45.36:511][667]LogExit: Transaction tracking system shut down
+[2019.12.15-21.45.37:133][667]LogExit: Object subsystem successfully closed.
+[2019.12.15-21.45.37:191][667]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.15-21.45.37:318][667]LogModuleManager: Shutting down and abandoning module Pacman2 (677)
+[2019.12.15-21.45.37:318][667]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (675)
+[2019.12.15-21.45.37:318][667]LogModuleManager: Shutting down and abandoning module Voice (673)
+[2019.12.15-21.45.37:319][667]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.12.15-21.45.37:319][667]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2019.12.15-21.45.37:319][667]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.12.15-21.45.37:328][667]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.12.15-21.45.37:328][667]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.12.15-21.45.37:328][667]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.12.15-21.45.37:329][667]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2019.12.15-21.45.37:331][667]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2019.12.15-21.45.37:331][667]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2019.12.15-21.45.37:333][667]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2019.12.15-21.45.37:341][667]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2019.12.15-21.45.37:341][667]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2019.12.15-21.45.37:341][667]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2019.12.15-21.45.37:341][667]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2019.12.15-21.45.37:342][667]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2019.12.15-21.45.37:342][667]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2019.12.15-21.45.37:342][667]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2019.12.15-21.45.37:344][667]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2019.12.15-21.45.37:345][667]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2019.12.15-21.45.37:345][667]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2019.12.15-21.45.37:345][667]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2019.12.15-21.45.37:346][667]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2019.12.15-21.45.37:348][667]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2019.12.15-21.45.37:355][667]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2019.12.15-21.45.37:356][667]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2019.12.15-21.45.37:359][667]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2019.12.15-21.45.37:362][667]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2019.12.15-21.45.37:362][667]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2019.12.15-21.45.37:362][667]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2019.12.15-21.45.37:362][667]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2019.12.15-21.45.37:362][667]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2019.12.15-21.45.37:363][667]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2019.12.15-21.45.37:365][667]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2019.12.15-21.45.37:369][667]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2019.12.15-21.45.37:369][667]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2019.12.15-21.45.37:369][667]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2019.12.15-21.45.37:370][667]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2019.12.15-21.45.37:371][667]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2019.12.15-21.45.37:371][667]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2019.12.15-21.45.37:374][667]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2019.12.15-21.45.37:374][667]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2019.12.15-21.45.37:374][667]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2019.12.15-21.45.37:377][667]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2019.12.15-21.45.37:380][667]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2019.12.15-21.45.37:383][667]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2019.12.15-21.45.37:384][667]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2019.12.15-21.45.37:385][667]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2019.12.15-21.45.37:385][667]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2019.12.15-21.45.37:386][667]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2019.12.15-21.45.37:386][667]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2019.12.15-21.45.37:386][667]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2019.12.15-21.45.37:754][667]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2019.12.15-21.45.37:754][667]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2019.12.15-21.45.37:754][667]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2019.12.15-21.45.37:754][667]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2019.12.15-21.45.37:755][667]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2019.12.15-21.45.37:755][667]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2019.12.15-21.45.37:756][667]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2019.12.15-21.45.37:761][667]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2019.12.15-21.45.37:762][667]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2019.12.15-21.45.37:764][667]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2019.12.15-21.45.37:764][667]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2019.12.15-21.45.37:765][667]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2019.12.15-21.45.37:766][667]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2019.12.15-21.45.37:767][667]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2019.12.15-21.45.37:768][667]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2019.12.15-21.45.37:770][667]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2019.12.15-21.45.37:773][667]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2019.12.15-21.45.37:774][667]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2019.12.15-21.45.37:776][667]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2019.12.15-21.45.37:777][667]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2019.12.15-21.45.37:779][667]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2019.12.15-21.45.37:781][667]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2019.12.15-21.45.37:783][667]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2019.12.15-21.45.37:818][667]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2019.12.15-21.45.37:820][667]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2019.12.15-21.45.37:822][667]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2019.12.15-21.45.37:827][667]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2019.12.15-21.45.37:827][667]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2019.12.15-21.45.37:831][667]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2019.12.15-21.45.37:832][667]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2019.12.15-21.45.37:835][667]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2019.12.15-21.45.37:838][667]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2019.12.15-21.45.37:838][667]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2019.12.15-21.45.37:838][667]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2019.12.15-21.45.37:843][667]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2019.12.15-21.45.37:843][667]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2019.12.15-21.45.37:846][667]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2019.12.15-21.45.37:847][667]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2019.12.15-21.45.37:847][667]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2019.12.15-21.45.37:847][667]LogModuleManager: Shutting down and abandoning module DesktopPlatform (471)
+[2019.12.15-21.45.37:847][667]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.15-21.45.37:848][667]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.15-21.45.37:850][667]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.15-21.45.37:851][667]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.15-21.45.37:851][667]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.15-21.45.37:851][667]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.15-21.45.37:852][667]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.15-21.45.37:853][667]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.15-21.45.37:853][667]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.15-21.45.37:853][667]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.15-21.45.37:853][667]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.15-21.45.37:853][667]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.15-21.45.37:853][667]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.15-21.45.37:853][667]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.15-21.45.37:853][667]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.15-21.45.37:853][667]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.15-21.45.37:854][667]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.15-21.45.37:854][667]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.15-21.45.37:854][667]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.15-21.45.37:854][667]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2019.12.15-21.45.37:862][667]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2019.12.15-21.45.38:007][667]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2019.12.15-21.45.38:008][667]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2019.12.15-21.45.38:008][667]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2019.12.15-21.45.38:008][667]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2019.12.15-21.45.38:009][667]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2019.12.15-21.45.38:009][667]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2019.12.15-21.45.38:009][667]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2019.12.15-21.45.38:009][667]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2019.12.15-21.45.38:009][667]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2019.12.15-21.45.38:010][667]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2019.12.15-21.45.38:010][667]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2019.12.15-21.45.38:010][667]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2019.12.15-21.45.38:010][667]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2019.12.15-21.45.38:010][667]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2019.12.15-21.45.38:010][667]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2019.12.15-21.45.38:010][667]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2019.12.15-21.45.38:010][667]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2019.12.15-21.45.38:010][667]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2019.12.15-21.45.38:012][667]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2019.12.15-21.45.38:012][667]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2019.12.15-21.45.38:012][667]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2019.12.15-21.45.38:012][667]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2019.12.15-21.45.38:012][667]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2019.12.15-21.45.38:013][667]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2019.12.15-21.45.38:013][667]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2019.12.15-21.45.38:013][667]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2019.12.15-21.45.38:013][667]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2019.12.15-21.45.38:013][667]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2019.12.15-21.45.38:013][667]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2019.12.15-21.45.38:013][667]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2019.12.15-21.45.38:014][667]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2019.12.15-21.45.38:014][667]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2019.12.15-21.45.38:014][667]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2019.12.15-21.45.38:014][667]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2019.12.15-21.45.38:014][667]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2019.12.15-21.45.38:014][667]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2019.12.15-21.45.38:014][667]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2019.12.15-21.45.38:018][667]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2019.12.15-21.45.38:019][667]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2019.12.15-21.45.38:019][667]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2019.12.15-21.45.38:021][667]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2019.12.15-21.45.38:023][667]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2019.12.15-21.45.38:023][667]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2019.12.15-21.45.38:023][667]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2019.12.15-21.45.38:023][667]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2019.12.15-21.45.38:023][667]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2019.12.15-21.45.38:023][667]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2019.12.15-21.45.38:025][667]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2019.12.15-21.45.38:027][667]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2019.12.15-21.45.38:028][667]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2019.12.15-21.45.38:028][667]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2019.12.15-21.45.38:028][667]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2019.12.15-21.45.38:029][667]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2019.12.15-21.45.38:029][667]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2019.12.15-21.45.38:029][667]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2019.12.15-21.45.38:029][667]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2019.12.15-21.45.38:029][667]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2019.12.15-21.45.38:029][667]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2019.12.15-21.45.38:031][667]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.15-21.45.38:031][667]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.15-21.45.38:031][667]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.15-21.45.38:032][667]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.15-21.45.38:032][667]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.15-21.45.38:032][667]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.15-21.45.38:133][667]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.15-21.45.38:234][667]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.15-21.45.38:234][667]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.15-21.45.38:234][667]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.15-21.45.38:234][667]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.15-21.45.38:235][667]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.15-21.45.38:236][667]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.15-21.45.38:236][667]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.15-21.45.38:237][667]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.15-21.45.38:237][667]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.15-21.45.38:237][667]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.15-21.45.38:238][667]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.15-21.45.38:238][667]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.15-21.45.38:238][667]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.15-21.45.38:239][667]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.15-21.45.38:245][667]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.15-21.45.38:246][667]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.15-21.45.38:247][667]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.15-21.45.38:248][667]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.15-21.45.38:252][667]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.15-21.45.38:253][667]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.15-21.45.38:254][667]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.15-21.45.38:254][667]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.15-21.45.38:254][667]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.15-21.45.38:255][667]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.15-21.45.38:260][667]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.15-21.45.38:261][667]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.15-21.45.38:261][667]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.15-21.45.38:261][667]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.15-21.45.38:261][667]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.15-21.45.38:263][667]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.15-21.45.38:263][667]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.15-21.45.38:263][667]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.15-21.45.38:263][667]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.15-21.45.38:264][667]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.15-21.45.38:265][667]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.15-21.45.38:265][667]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.15-21.45.38:268][667]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.15-21.45.38:269][667]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.15-21.45.38:270][667]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.15-21.45.38:272][667]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.15-21.45.38:272][667]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.15-21.45.38:274][667]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.15-21.45.38:279][667]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.15-21.45.38:279][667]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.15-21.45.38:283][667]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.15-21.45.38:283][667]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.15-21.45.38:283][667]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.15-21.45.38:289][667]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.15-21.45.38:289][667]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.15-21.45.38:289][667]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.15-21.45.38:289][667]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.15-21.45.38:289][667]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.15-21.45.38:289][667]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.15-21.45.38:289][667]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.15-21.45.38:289][667]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.15-21.45.38:289][667]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.15-21.45.38:290][667]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.15-21.45.38:291][667]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.15-21.45.38:291][667]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.15-21.45.38:292][667]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.15-21.45.38:293][667]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.15-21.45.38:294][667]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.15-21.45.38:294][667]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.15-21.45.38:294][667]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.15-21.45.38:294][667]LogDerivedDataCache: Shutdown
+[2019.12.15-21.45.38:294][667]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.15-21.45.38:295][667]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.15-21.45.38:296][667]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.15-21.45.38:296][667]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.15-21.45.38:297][667]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.15-21.45.38:298][667]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.15-21.45.38:299][667]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.15-21.45.38:300][667]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.15-21.45.38:300][667]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.15-21.45.38:301][667]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.15-21.45.38:301][667]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.15-21.45.38:303][667]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.15-21.45.38:303][667]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.15-21.45.38:303][667]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.15-21.45.38:304][667]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.15-21.45.38:304][667]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.15-21.45.38:305][667]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.15-21.45.38:305][667]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.15-21.45.38:326][667]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.15-21.45.38:326][667]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.15-21.45.38:328][667]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.15-21.45.38:329][667]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.15-21.45.38:330][667]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.15-21.45.38:346][667]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.15-21.45.38:346][667]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.15-21.45.38:358][667]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.15-21.45.38:359][667]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.15-21.45.38:425][667]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.15-21.45.38:426][667]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.15-21.45.38:426][667]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.15-21.45.38:427][667]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.15-21.45.38:427][667]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.15-21.45.38:427][667]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.15-21.45.38:427][667]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.15-21.45.38:427][667]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.15-21.45.38:428][667]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.15-21.45.38:428][667]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.15-21.45.38:428][667]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.15-21.45.38:428][667]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.15-21.45.38:429][667]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.15-21.45.38:429][667]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.15-21.45.38:429][667]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.15-21.45.38:429][667]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.15-21.45.38:430][667]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.15-21.45.38:430][667]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.15-21.45.38:430][667]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.15-21.45.38:430][667]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.15-21.45.38:430][667]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.15-21.45.38:431][667]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.15-21.45.38:434][667]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.15-21.45.38:436][667]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.15-21.45.38:446][667]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.15-21.45.38:446][667]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.15-21.45.38:446][667]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.15-21.45.38:446][667]LogHttp: Warning: 0000014673BA9080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F3B4CED-4761-D6E2-470D-11B0EEEBCDEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=aa5f5be140252537c5050abaada1c046%7C09e10e81f244499b944931ec94eda32f%7Cf6132e6c-f03e-4dc6-8f89-7f856703eb75&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.15-21.45.38:446][667]LogHttp: Warning: 0000014673BA9080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.15-21.45.38:446][667]LogHttp: Warning: 0000014673BA9080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.15-21.45.38:446][667]LogHttp: Warning: 0000014673BA9080: libcurl info message cache 1 (Closing connection 30)
+[2019.12.15-21.45.38:477][667]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.15-21.45.38:482][667]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.15-21.45.38:486][667]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.15-21.45.38:487][667]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.15-21.45.38:488][667]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.15-21.45.38:488][667]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.15-21.45.38:488][667]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.15-21.45.38:489][667]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.15-21.45.38:489][667]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.15-21.45.38:490][667]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.15-21.45.38:492][667]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.15-21.45.38:494][667]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.15-21.45.38:495][667]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.15-21.45.38:495][667]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.15-21.45.38:495][667]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.15-21.45.38:500][667]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.15-21.45.38:502][667]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.15-21.45.38:502][667]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.15-21.45.38:502][667]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.15-21.45.38:502][667]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.15-21.45.38:502][667]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.15-21.45.38:502][667]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.15-21.45.38:503][667]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.15-21.45.38:503][667]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.15-21.45.38:503][667]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.15-21.45.38:503][667]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.15-21.45.38:503][667]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.15-21.45.38:504][667]LogD3D11RHI: Shutdown
+[2019.12.15-21.45.38:504][667]LogD3D11RHI: CleanupD3DDevice
+[2019.12.15-21.45.38:509][667]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.15-21.45.38:510][667]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.15-21.45.38:510][667]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.15-21.45.38:568][667]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2019.12.15-21.45.38:701][667]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.15-21.45.38:707][667]LogExit: Exiting.
+[2019.12.15-21.45.38:721][667]Log file closed, 12/16/19 06:45:38
